@@ -34,6 +34,15 @@ protected:
 	/** Called for side to side input */
 	void MoveRight(float Value);
 
+	/** Turn Event, called when Mouse is moved */
+	void Turn(float Value);
+
+	UFUNCTION(Server, Reliable, WithValidation)
+	void ServerTurnPlayer(float Value);
+
+	virtual void ServerTurnPlayer_Implementation(float Value);
+	virtual bool ServerTurnPlayer_Validate(float Value);
+
 	/** 
 	 * Called via input to turn at a given rate. 
 	 * @param Rate	This is a normalized rate, i.e. 1.0 means 100% of desired turn rate
@@ -51,6 +60,7 @@ protected:
 
 	/** Handler for when a touch input stops. */
 	void TouchStopped(ETouchIndex::Type FingerIndex, FVector Location);
+
 
 protected:
 	// APawn interface

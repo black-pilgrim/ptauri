@@ -8,6 +8,8 @@
 
 ATauriCharacter::ATauriCharacter()
 {
+	bReplicateMovement = true;
+
 	// Set size for collision capsule
 	GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);
 
@@ -21,10 +23,10 @@ ATauriCharacter::ATauriCharacter()
 	bUseControllerRotationRoll = false;
 
 	// Configure character movement
-	GetCharacterMovement()->bOrientRotationToMovement = true; // Character moves in the direction of input...	
-	GetCharacterMovement()->RotationRate = FRotator(0.0f, 540.0f, 0.0f); // ...at this rotation rate
+	GetCharacterMovement()->bOrientRotationToMovement = false; // Character should not look towards walking direction
 	GetCharacterMovement()->JumpZVelocity = 600.f;
 	GetCharacterMovement()->AirControl = 0.2f;
+
 
 	// Create a camera boom (pulls in towards the player if there is a collision)
 	CameraBoom = CreateDefaultSubobject<USpringArmComponent>(TEXT("CameraBoom"));
@@ -57,7 +59,7 @@ void ATauriCharacter::SetupPlayerInputComponent(class UInputComponent* InputComp
 	// We have 2 versions of the rotation bindings to handle different kinds of devices differently
 	// "turn" handles devices that provide an absolute delta, such as a mouse.
 	// "turnrate" is for devices that we choose to treat as a rate of change, such as an analog joystick
-	InputComponent->BindAxis("Turn", this, &APawn::AddControllerYawInput);
+	InputComponent->BindAxis("Turn", this, &ATauriCharacter::Turn);
 	InputComponent->BindAxis("TurnRate", this, &ATauriCharacter::TurnAtRate);
 	InputComponent->BindAxis("LookUp", this, &APawn::AddControllerPitchInput);
 	InputComponent->BindAxis("LookUpRate", this, &ATauriCharacter::LookUpAtRate);
@@ -66,7 +68,6 @@ void ATauriCharacter::SetupPlayerInputComponent(class UInputComponent* InputComp
 	InputComponent->BindTouch(IE_Pressed, this, &ATauriCharacter::TouchStarted);
 	InputComponent->BindTouch(IE_Released, this, &ATauriCharacter::TouchStopped);
 }
-
 
 void ATauriCharacter::TouchStarted(ETouchIndex::Type FingerIndex, FVector Location)
 {
@@ -85,11 +86,34 @@ void ATauriCharacter::TouchStopped(ETouchIndex::Type FingerIndex, FVector Locati
 	}
 }
 
+void ATauriCharacter::Turn(float Value)
+{
+	APawn::AddControllerYawInput(Value);
+	FRotator rot = FollowCamera->GetComponentRotation();
+	FRotator newRot(0.f, rot.Yaw, 0.f);
+	//GetMesh()->SetWorldRotation(newRot);
+	SetActorRotation(newRot);
+ 	
+	if (Role < ROLE_Authority)
+	{
+		ServerTurnPlayer(Value);
+	}
+}
+
+bool ATauriCharacter::ServerTurnPlayer_Validate(float Value)
+{
+	return true;
+}
+
+void ATauriCharacter::ServerTurnPlayer_Implementation(float Value)
+{
+	Turn(Value);
+}
+
 void ATauriCharacter::TurnAtRate(float Rate)
 {
 	// calculate delta for this frame from the rate information
 	AddControllerYawInput(Rate * BaseTurnRate * GetWorld()->GetDeltaSeconds());
-	
 }
 
 void ATauriCharacter::LookUpAtRate(float Rate)
