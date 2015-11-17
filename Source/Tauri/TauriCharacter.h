@@ -37,8 +37,11 @@ protected:
 	/** Turn Event, called when Mouse is moved */
 	void Turn(float Value);
 
-	/** This is needed, to let the mesh face the direction the camera is facing */
-	void AdjustMeshRotationToCamera();
+	UFUNCTION(Server, Reliable, WithValidation)
+	void ServerTurnPlayer(float Value);
+
+	virtual void ServerTurnPlayer_Implementation(float Value);
+	virtual bool ServerTurnPlayer_Validate(float Value);
 
 	/** 
 	 * Called via input to turn at a given rate. 

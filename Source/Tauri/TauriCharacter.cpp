@@ -8,6 +8,8 @@
 
 ATauriCharacter::ATauriCharacter()
 {
+	bReplicateMovement = true;
+
 	// Set size for collision capsule
 	GetCapsuleComponent()->InitCapsuleSize(42.f, 96.0f);
 
@@ -24,6 +26,7 @@ ATauriCharacter::ATauriCharacter()
 	GetCharacterMovement()->bOrientRotationToMovement = false; // Character should not look towards walking direction
 	GetCharacterMovement()->JumpZVelocity = 600.f;
 	GetCharacterMovement()->AirControl = 0.2f;
+
 
 	// Create a camera boom (pulls in towards the player if there is a collision)
 	CameraBoom = CreateDefaultSubobject<USpringArmComponent>(TEXT("CameraBoom"));
@@ -86,14 +89,25 @@ void ATauriCharacter::TouchStopped(ETouchIndex::Type FingerIndex, FVector Locati
 void ATauriCharacter::Turn(float Value)
 {
 	APawn::AddControllerYawInput(Value);
-	this->AdjustMeshRotationToCamera();
+	FRotator rot = FollowCamera->GetComponentRotation();
+	FRotator newRot(0.f, rot.Yaw, 0.f);
+	//GetMesh()->SetWorldRotation(newRot);
+	SetActorRotation(newRot);
+ 	
+	if (Role < ROLE_Authority)
+	{
+		ServerTurnPlayer(Value);
+	}
 }
 
-void ATauriCharacter::AdjustMeshRotationToCamera()
+bool ATauriCharacter::ServerTurnPlayer_Validate(float Value)
 {
-	FRotator rot = FollowCamera->GetComponentRotation();
-	FRotator newRot(0.f, rot.Yaw-90.f, 0.f);
-	Mesh->SetWorldRotation(newRot);
+	return true;
+}
+
+void ATauriCharacter::ServerTurnPlayer_Implementation(float Value)
+{
+	Turn(Value);
 }
 
 void ATauriCharacter::TurnAtRate(float Rate)
