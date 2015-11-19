@@ -2,12 +2,15 @@
 
 #include "Tauri.h"
 #include "TauriCharacter.h"
+#include "UnrealNetwork.h"
 
 //////////////////////////////////////////////////////////////////////////
 // ATauriCharacter
 
 ATauriCharacter::ATauriCharacter()
 {
+	
+
 	bReplicateMovement = true;
 
 	// Set size for collision capsule
@@ -34,6 +37,7 @@ ATauriCharacter::ATauriCharacter()
 	CameraBoom->TargetArmLength = 300.0f; // The camera follows at this distance behind the character	
 	CameraBoom->bUsePawnControlRotation = true; // Rotate the arm based on the controller
 
+
 	// Create a follow camera
 	FollowCamera = CreateDefaultSubobject<UCameraComponent>(TEXT("FollowCamera"));
 	FollowCamera->AttachTo(CameraBoom, USpringArmComponent::SocketName); // Attach the camera to the end of the boom and let the boom adjust to match the controller orientation
@@ -41,6 +45,12 @@ ATauriCharacter::ATauriCharacter()
 
 	// Note: The skeletal mesh and anim blueprint references on the Mesh component (inherited from Character) 
 	// are set in the derived blueprint asset named MyCharacter (to avoid direct content references in C++)
+}
+
+void ATauriCharacter::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const
+{
+	Super::GetLifetimeReplicatedProps(OutLifetimeProps);
+	DOREPLIFETIME(ATauriCharacter, Viewport);
 }
 
 //////////////////////////////////////////////////////////////////////////
@@ -61,7 +71,7 @@ void ATauriCharacter::SetupPlayerInputComponent(class UInputComponent* InputComp
 	// "turnrate" is for devices that we choose to treat as a rate of change, such as an analog joystick
 	InputComponent->BindAxis("Turn", this, &ATauriCharacter::Turn);
 	InputComponent->BindAxis("TurnRate", this, &ATauriCharacter::TurnAtRate);
-	InputComponent->BindAxis("LookUp", this, &APawn::AddControllerPitchInput);
+	InputComponent->BindAxis("LookUp", this, &ATauriCharacter::LookUp);
 	InputComponent->BindAxis("LookUpRate", this, &ATauriCharacter::LookUpAtRate);
 
 	// handle touch devices
@@ -91,7 +101,6 @@ void ATauriCharacter::Turn(float Value)
 	APawn::AddControllerYawInput(Value);
 	FRotator rot = FollowCamera->GetComponentRotation();
 	FRotator newRot(0.f, rot.Yaw, 0.f);
-	//GetMesh()->SetWorldRotation(newRot);
 	SetActorRotation(newRot);
  	
 	if (Role < ROLE_Authority)
@@ -109,6 +118,47 @@ void ATauriCharacter::ServerTurnPlayer_Implementation(float Value)
 {
 	Turn(Value);
 }
+
+void ATauriCharacter::LookUp(float Value)
+{
+	APawn::AddControllerPitchInput(Value);
+	if (Role <= ROLE_Authority)
+	{
+		ServerLookUpPlayer(Value);
+	}
+}
+
+bool ATauriCharacter::ServerLookUpPlayer_Validate(float Value)
+{
+	return true;
+}
+
+void ATauriCharacter::ServerLookUpPlayer_Implementation(float Value)
+{
+	if (Role == ROLE_Authority)
+	{
+		FRotator OutRotation;
+		FVector OutLocation;
+		GetActorEyesViewPoint(OutLocation, OutRotation);
+
+		float pitch = OutRotation.Pitch * (-1);
+		FRotator vprt(0.f, 0.f, pitch);
+
+		MulticastLookUp(vprt);
+	}
+}
+
+bool ATauriCharacter::MulticastLookUp_Validate(FRotator Viewport)
+{
+	return true;
+}
+
+void ATauriCharacter::MulticastLookUp_Implementation(FRotator Viewport)
+{
+	this->Viewport = Viewport;
+}
+
+
 
 void ATauriCharacter::TurnAtRate(float Rate)
 {
