@@ -50,7 +50,7 @@ ATauriCharacter::ATauriCharacter()
 void ATauriCharacter::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const
 {
 	Super::GetLifetimeReplicatedProps(OutLifetimeProps);
-	DOREPLIFETIME(ATauriCharacter, Viewport);
+	DOREPLIFETIME(ATauriCharacter, ViewportRotator);
 }
 
 //////////////////////////////////////////////////////////////////////////
@@ -148,14 +148,14 @@ void ATauriCharacter::ServerLookUpPlayer_Implementation(float Value)
 	}
 }
 
-bool ATauriCharacter::MulticastLookUp_Validate(FRotator Viewport)
+bool ATauriCharacter::MulticastLookUp_Validate(FRotator vprt)
 {
 	return true;
 }
 
-void ATauriCharacter::MulticastLookUp_Implementation(FRotator Viewport)
+void ATauriCharacter::MulticastLookUp_Implementation(FRotator vprt)
 {
-	this->Viewport = Viewport;
+	ViewportRotator = vprt;
 }
 
 

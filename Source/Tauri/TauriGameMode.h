@@ -11,6 +11,3 @@ class ATauriGameMode : public AGameMode
 public:
 	ATauriGameMode();
 };
-
-
-
