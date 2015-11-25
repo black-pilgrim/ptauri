@@ -11,9 +11,5 @@
 UCLASS()
 class TAURI_API ATauriGameState : public AGameState
 {
-	GENERATED_BODY()
-
-public:
-	UPROPERTY(Replicated, EditAnywhere, BlueprintReadWrite, Category = Multiplayer)
-	TArray<ACharacter*> playerPawns;	
+	GENERATED_BODY()	
 };

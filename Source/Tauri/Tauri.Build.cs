@@ -7,5 +7,8 @@ public class Tauri : ModuleRules
 	public Tauri(TargetInfo Target)
 	{
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
-	}
+
+        DynamicallyLoadedModuleNames.Add("OnlineSubsystemSteam");
+    }
+
 }
