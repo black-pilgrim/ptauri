@@ -2,12 +2,7 @@
 
 #include "Tauri.h"
 #include "TauriGameState.h"
-#include "UnrealNetwork.h"
 
-void ATauriGameState::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const
-{
-	Super::GetLifetimeReplicatedProps(OutLifetimeProps);
-	DOREPLIFETIME(ATauriGameState, playerPawns);
-}
+
 
 

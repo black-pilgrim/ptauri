@@ -3,22 +3,32 @@
 #include "Tauri.h"
 #include "TauriGameMode.h"
 #include "TauriCharacter.h"
+#include "TauriHUD.h"
+#include "TauriPlayerState.h"
 #include "TauriGameState.h"
 
 ATauriGameMode::ATauriGameMode()
 {
-	// set default pawn class to our Blueprinted character
-	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/ThirdPersonCPP/Blueprints/TauriCharacterBP"));
+	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/Blueprints/Level/GameMode/TauriCharacterBP"));
 	if (PlayerPawnBPClass.Class != NULL)
 	{
 		DefaultPawnClass = PlayerPawnBPClass.Class;
 	}
-	static ConstructorHelpers::FClassFinder<AGameState> GameStateBPClass(TEXT("/Game/ThirdPersonCPP/Blueprints/TauriGameStateBP"));
+	/*
+	static ConstructorHelpers::FClassFinder<AGameState> GameStateBPClass(TEXT("/Game/Blueprints/Level/GameMode/TauriGameStateBP"));
 	if (GameStateBPClass.Class != NULL)
 	{
 		GameStateClass = GameStateBPClass.Class;
 	}
-
-
-	
+	*/
+	static ConstructorHelpers::FClassFinder<AHUD> HudBPClass(TEXT("/Game/Blueprints/Level/GameMode/TauriHudBP"));
+	if (HudBPClass.Class != NULL)
+	{
+		HUDClass = HudBPClass.Class;
+	}	
+	static ConstructorHelpers::FClassFinder<APlayerState> PlayerStateBPClass(TEXT("/Game/Blueprints/Level/GameMode/TauriPlayerStateBP"));
+	if (PlayerStateBPClass.Class != NULL)
+	{
+		PlayerStateClass = PlayerStateBPClass.Class;
+	}
 }

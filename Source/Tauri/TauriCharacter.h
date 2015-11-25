@@ -45,7 +45,7 @@ protected:
 
 
 	/** LookUp Event, called when Mouse is moved up/down */
-	UPROPERTY(Replicated, BlueprintReadWrite, Meta = (AllowPrivateAccess = "true"))
+	UPROPERTY(Replicated, BlueprintReadWrite)
 	FRotator ViewportRotator;
 
 	void LookUp(float Value);
