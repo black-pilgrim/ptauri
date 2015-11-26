@@ -9,6 +9,7 @@
   <BuildProducts>
     <BuildProduct Path="$(ProjectDir)\Binaries\Win64\Tauri.exe" Type="Executable" />
     <BuildProduct Path="$(ProjectDir)\Binaries\Win64\Tauri.pdb" Type="SymbolFile" />
+    <BuildProduct Path="$(ProjectDir)\Plugins\AdvancedSessions\Binaries\Win64\UE4-AdvancedSessions.lib" Type="StaticLibrary" />
   </BuildProducts>
   <RuntimeDependencies>
     <RuntimeDependency Path="$(EngineDir)/Binaries/ThirdParty/PhysX/PhysX-3.3/Win64/VS2015/PhysX3PROFILE_x64.dll" />
@@ -24,6 +25,7 @@
     <RuntimeDependency Path="$(EngineDir)/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll" />
     <RuntimeDependency Path="$(EngineDir)/Binaries/ThirdParty/Leap/Win64/Leap.dll" />
     <RuntimeDependency Path="$(EngineDir)/Binaries/ThirdParty/OpenVR/OpenVRv000/Win64/openvr_api.dll" />
+    <RuntimeDependency Path="$(EngineDir)/Binaries/ThirdParty/Steamworks/Steamv132/Win64/steam_api64.dll" />
   </RuntimeDependencies>
   <AdditionalProperties />
   <bRequireDependenciesToExist>true</bRequireDependenciesToExist>
