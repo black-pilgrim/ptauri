@@ -14,13 +14,6 @@ ATauriGameMode::ATauriGameMode()
 	{
 		DefaultPawnClass = PlayerPawnBPClass.Class;
 	}
-	/*
-	static ConstructorHelpers::FClassFinder<AGameState> GameStateBPClass(TEXT("/Game/Blueprints/Level/GameMode/TauriGameStateBP"));
-	if (GameStateBPClass.Class != NULL)
-	{
-		GameStateClass = GameStateBPClass.Class;
-	}
-	*/
 	static ConstructorHelpers::FClassFinder<AHUD> HudBPClass(TEXT("/Game/Blueprints/Level/GameMode/TauriHudBP"));
 	if (HudBPClass.Class != NULL)
 	{
