@@ -47,11 +47,6 @@ ATauriCharacter::ATauriCharacter()
 	// are set in the derived blueprint asset named MyCharacter (to avoid direct content references in C++)
 }
 
-void ATauriCharacter::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const
-{
-	Super::GetLifetimeReplicatedProps(OutLifetimeProps);
-	DOREPLIFETIME(ATauriCharacter, ViewportRotator);
-}
 
 //////////////////////////////////////////////////////////////////////////
 // Input
@@ -98,66 +93,14 @@ void ATauriCharacter::TouchStopped(ETouchIndex::Type FingerIndex, FVector Locati
 
 void ATauriCharacter::Turn(float Value)
 {
-	APawn::AddControllerYawInput(Value);
-	FRotator rot = FollowCamera->GetComponentRotation();
-	FRotator newRot(0.f, rot.Yaw, 0.f);
-	SetActorRotation(newRot);
- 	
-	if (Role < ROLE_Authority)
-	{
-		ServerTurnPlayer(Value);
-	}
+
 }
 
-bool ATauriCharacter::ServerTurnPlayer_Validate(float Value)
-{
-	return true;
-}
-
-void ATauriCharacter::ServerTurnPlayer_Implementation(float Value)
-{
-	Turn(Value);
-}
 
 void ATauriCharacter::LookUp(float Value)
 {
-	APawn::AddControllerPitchInput(Value);
-	if (Role <= ROLE_Authority)
-	{
-		ServerLookUpPlayer(Value);
-	}
+	
 }
-
-bool ATauriCharacter::ServerLookUpPlayer_Validate(float Value)
-{
-	return true;
-}
-
-void ATauriCharacter::ServerLookUpPlayer_Implementation(float Value)
-{
-	if (Role == ROLE_Authority)
-	{
-		FRotator OutRotation;
-		FVector OutLocation;
-		GetActorEyesViewPoint(OutLocation, OutRotation);
-
-		float pitch = OutRotation.Pitch * (-1);
-		FRotator vprt(0.f, 0.f, pitch);
-
-		MulticastLookUp(vprt);
-	}
-}
-
-bool ATauriCharacter::MulticastLookUp_Validate(FRotator vprt)
-{
-	return true;
-}
-
-void ATauriCharacter::MulticastLookUp_Implementation(FRotator vprt)
-{
-	ViewportRotator = vprt;
-}
-
 
 
 void ATauriCharacter::TurnAtRate(float Rate)
