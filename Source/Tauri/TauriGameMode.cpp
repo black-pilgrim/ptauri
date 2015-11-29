@@ -2,10 +2,6 @@
 
 #include "Tauri.h"
 #include "TauriGameMode.h"
-#include "TauriCharacter.h"
-#include "TauriHUD.h"
-#include "TauriPlayerState.h"
-#include "TauriGameState.h"
 
 ATauriGameMode::ATauriGameMode()
 {
