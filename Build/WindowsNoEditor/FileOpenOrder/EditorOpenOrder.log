@@ -502,651 +502,772 @@
 "D:/Unreal/Tauri/Content/Objects/Character/Animations/ThirdPersonRun.uasset" 502
 "D:/Unreal/Tauri/Content/Objects/Character/Animations/ThirdPersonWalk.uasset" 503
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 504
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 505
-"D:/Unreal/Tauri/Content/Blueprints/Level/HUD/HealthInterface.uasset" 506
-"D:/Unreal/Tauri/Content/Blueprints/Level/GameMode/TauriHudBP.uasset" 507
-"D:/Unreal/Tauri/Content/Blueprints/Level/HUD/Health.uasset" 508
-"D:/Unreal/Tauri/Content/Blueprints/Level/GameMode/TauriPlayerStateBP.uasset" 509
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/4.10/Saved/Config/Windows/SourceControlSettings.ini" 510
-"D:/Unreal/Tauri/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 511
-"D:/Unreal/Tauri/Saved/Config/Windows/SourceControlSettings.ini" 512
-"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_CapsuleMesh.uasset" 513
-"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_TorusMesh.uasset" 514
-"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_HandColor.uasset" 515
-"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_PassthroughMaterial.uasset" 516
-"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_SampleDistortion.uasset" 517
-"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_TestTexture.uasset" 518
-"../../../Engine/Content/BasicShapes/Cube.uasset" 519
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 520
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 521
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 522
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 523
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 524
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 525
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 526
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 527
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 528
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 529
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 530
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 531
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 532
-"D:/Unreal/Tauri/Intermediate/CachedAssetRegistry.bin" 533
-"D:/Unreal/Tauri/Content/Blueprints/Level/GameMode/TauriGameInstance.uasset" 534
-"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/LobbyMenu.uasset" 535
-"D:/Unreal/Tauri/Saved/Autosaves/Game/Maps/UEDPCLobbyMenu.umap" 536
-"D:/Unreal/Tauri/Saved/Cooked/WindowsNoEditor/Tauri/CookedIniVersion.txt" 537
-"../../../Engine/Config/HTML5/HTML5Engine.ini" 538
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 539
-"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/ConnectedPlayerWidget.uasset" 540
-"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/Stargate.uasset" 541
-"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/ServerTravel.uasset" 542
-"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/T_MainMenu.uasset" 543
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 544
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 545
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 546
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 547
-"../../../Engine/Content/EditorMaterials/PhAT_JointLimitMaterial.uasset" 548
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 549
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 550
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 551
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 552
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 553
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 554
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 555
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 556
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 557
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 558
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 559
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 560
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 561
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 562
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 563
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 564
-"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 565
-"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 566
-"../../../Engine/Content/EngineMeshes/Cube.uasset" 567
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 568
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 569
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 570
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 571
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 572
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 573
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 574
-"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 575
-"../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset" 576
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Tutorial_DM.uasset" 577
-"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 578
-"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 579
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 580
-"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 581
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 582
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 583
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 584
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 585
-"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 586
-"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 587
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 588
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 589
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 590
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 591
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 592
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 593
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 594
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 595
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 596
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 597
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 598
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 599
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 600
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 601
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 602
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 603
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 604
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 605
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 606
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 607
-"../../../Engine/Content/Maps/Entry.umap" 608
-"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 609
-"D:/Unreal/Tauri/Content/Maps/MainMenu.umap" 610
-"D:/Unreal/Tauri/Content/Blueprints/Menu/GameMode/MenuGameMode.uasset" 611
-"D:/Unreal/Tauri/Content/Blueprints/Menu/GameMode/MenuHUD.uasset" 612
-"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/MainMenu.uasset" 613
-"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/CreateServerMenu.uasset" 614
-"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/SearchServerMenu.uasset" 615
-"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/FoundServerWidget.uasset" 616
-"D:/Unreal/Tauri/Content/Maps/ThirdPersonExampleMap.umap" 617
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 618
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 619
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 620
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 621
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 622
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 623
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 624
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 625
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 626
-"D:/Unreal/Tauri/Content/Blueprints/Level/GameMode/TauriGameModeBP.uasset" 627
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 628
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 629
-"D:/Unreal/Tauri/Content/Objects/Primitives/Materials/RampMaterial.uasset" 630
-"D:/Unreal/Tauri/Content/Objects/Primitives/Mesh/1M_Cube.uasset" 631
-"D:/Unreal/Tauri/Content/Objects/Primitives/Materials/CubeMaterial.uasset" 632
-"D:/Unreal/Tauri/Content/Objects/Primitives/Mesh/Bump_StaticMesh.uasset" 633
-"D:/Unreal/Tauri/Content/Objects/Primitives/Mesh/LeftArm_StaticMesh.uasset" 634
-"D:/Unreal/Tauri/Content/Objects/Primitives/Mesh/Linear_Stair_StaticMesh.uasset" 635
-"D:/Unreal/Tauri/Content/Objects/Primitives/Mesh/Ramp_StaticMesh.uasset" 636
-"D:/Unreal/Tauri/Content/Objects/Primitives/Mesh/RightArm_StaticMesh.uasset" 637
-"D:/Unreal/Tauri/Content/Objects/Primitives/Mesh/TemplateFloor.uasset" 638
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/4/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_E7481A7549F02589B801AD8E00971C3__013440111A10778A4038F6B8594914B495AB3AE4.udd" 639
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/5/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_E7481A7549F02589B__0ACA96DAC0635587C108FF236F3B276C87EE108D.udd" 640
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/5/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_FDBBB6F04D800CA09DD3D28E01D71FF4__1_0_13123_0.udd" 641
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/8/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_C1404D4149047549068AD0A3C8242D3D__1_0_13123_0.udd" 642
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/7/REFL_ENC_96DFC022836B48889143E9DF484C3296_783E3A0F4956957B4A069692AFF1FD52.udd" 643
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/9/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_4B5CFF95454C0E412B8DC7B9702297A__348FD9149A8B96C24F8B13E7991534E46C2778B8.udd" 644
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/9/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_4B5CFF95454C0E412__E3BB315FD72892F9CC78551F70CB9FA2179F4377.udd" 645
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F0276359475320C13EFBEDB268B99__277A2D9D14257BE63BC0BB641AE2B7E95E154E68.udd" 646
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4691407E469961F748204F9BE2CE0__CACEF9999ED3BB68E116EBD1B7BC94CC0B56F3C1.udd" 647
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B6E2CD774BF3EBBC31C5368A88235__450D84CE6D8AB58FD479455CAFF7FA1751EF366F.udd" 648
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4691407E469961F748204F9BE2CE0__93285BC20B0CFEF3CE163694873765F1450E08F1.udd" 649
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B6E2CD774BF3EBBC31C5368A88235__9D0A530C77A38CC02EBBECB6A2D1F6766316E673.udd" 650
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4691407E469961F748204F9BE2CE0__E313FF121525AB368A117BBEF58775CE4584AD1F.udd" 651
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4691407E469961F748204F9BE2CE0__D1CDD76A475386F3EE3043D1A27D4F7F61F682B9.udd" 652
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4691407E469961F748204F9BE2CE0__D13669C3B8DB297621C602935ACA7A1FE8ED99E0.udd" 653
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E755BE2D467288F01C6AA4898A19F__21A4ECE22106D9DF3D398B34099B1DD89A14604E.udd" 654
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E755BE2D467288F01C6AA4898A19F__A6B96313109CF010F6542ED2043D2E0A73E0AC85.udd" 655
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B6E2CD774BF3EBBC31C5368A88235__E08E73980C23FD52BA6876A9FC24062D103243D4.udd" 656
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B6E2CD774BF3EBBC31C5368A88235__756A09B285A8D13885FBCA115725A23150C60389.udd" 657
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E755BE2D467288F01C6AA4898A19F__5CA15180929E2B0495A6C4B6D56C66DFD08F58C6.udd" 658
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B6E2CD774BF3EBBC31C5368A88235__CDC3565E1FB37980B8849933F51E9D189E0CBA65.udd" 659
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E755BE2D467288F01C6AA4898A19F__8917D381187E3BA123847D5FC10B24A7F4E4EF8E.udd" 660
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2D0E63D545F43A30254EA994F9DB7__5CC6A06AEACAFF2DF0D40267C8B916899AC293C5.udd" 661
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_AB2744644C616E1BEB06429EDF7A03D0__6A557EC1E92E77C93F6FDFC5792821BBB4F7BE09.udd" 662
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3F840105422885DE4CBB49ADA4D808C0__DB3A2EE71873CD94236E2234D5D7A87F68482116.udd" 663
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2D0E63D545F43A30254EA994F9DB7__86ADA8821F3799D979E48B2E467174D098C1FE79.udd" 664
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/8/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3B3866AC47F8EC60AE2E7B8AB580E5FE__76EAAC7F7AFA0E7595C40AA09D832E166DBF859C.udd" 665
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3F840105422885DE4CBB49ADA4D808C0__1AE5C9FC99532D67B60A3FEDB8CF2F58F8D29529.udd" 666
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3B3866AC47F8EC60AE2E7B8AB580E5FE__4165A0C4EF28A9F7B5A8668C3FE8B65E47B2CE62.udd" 667
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2D0E63D545F43A30254EA994F9DB7__B622AD17E7D58457BA73418BAE7991BE9AFCD2AE.udd" 668
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2D0E63D545F43A30254EA994F9DB7__FCA35953734AB322819003CDB894E0B4DA592AB4.udd" 669
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_862783D34F6FCFAC34F87DB33E3E14EA__DD5F12BD75156FAD8DC8ADB4210DB8DFAC3826EE.udd" 670
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/8/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3F840105422885DE4CBB49ADA4D808C0__265FAB965E4032FD8ACFB977893CFFE10053FB08.udd" 671
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_862783D34F6FCFAC34F87DB33E3E14EA__26670988E96603302DB29C63D80AFC15D974DA0D.udd" 672
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3F840105422885DE4CBB49ADA4D808C0__CD4EC37895EDAAF1004B4EDAFF0A6F4A61DB9124.udd" 673
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3F840105422885DE4CBB49ADA4D808C0__C23863E84189EECA41213CB6DB11C66D8AE5FD8D.udd" 674
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3B3866AC47F8EC60AE2E7B8AB580E5FE__847D30A28FC05B06372F3D6539A19FD780BA7237.udd" 675
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_862783D34F6FCFAC34F87DB33E3E14EA__4C0B1F06B822BFF6ACD375F80561BF387F2971AC.udd" 676
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/8/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_0411332A4BEA27AC050BE4A8C5286AEC__6CD040325F3772644D1E570042B8FE9DFF2EFAD1.udd" 677
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_862783D34F6FCFAC34F87DB33E3E14EA__6A62731E75155B39E808EA60AAAFF9C97C29B341.udd" 678
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_0411332A4BEA27AC050BE4A8C5286AEC__E96222BBA5A206B6048B3F9B72C37FFE07235E48.udd" 679
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/9/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3B3866AC47F8EC60AE2E7B8AB580E5FE__94E6676B80DF9F24FADD536F7A7296285373B011.udd" 680
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_308E77E542A69DB19D42718C163B7A82_0__1A6F4FA80A251FCE05607DA55F6B9D9021DF7D7E.udd" 681
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_308E77E542A69DB19D42718C163B7A82_0__97A7C85ED4B3781C575623499F57701D6AB8A6E5.udd" 682
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3B3866AC47F8EC60AE2E7B8AB580E5FE__0F63EB639976EB688F7D71FFC13EB945FE230DDC.udd" 683
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_0411332A4BEA27AC050BE4A8C5286AEC__318488A95EF0094FBC221A8BB515961031DBF5FF.udd" 684
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6456F62841A48576D2E2669D4F5FAA2B_0__56849E4DA3D7804A4AC86FFA3AA1FC4144C5417C.udd" 685
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_0411332A4BEA27AC050BE4A8C5286AEC__33B3636804523A31D0B7B2DB737801E17576C26D.udd" 686
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_308E77E542A69DB19D42718C163B7A82_0__86474EE5E2E95144D348385AA791F4389C140515.udd" 687
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_B4A403D3433F3FEAE7E038A20F211DDF_0__DF8080E05585D6D7535F845B8DC8557E0471A452.udd" 688
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_07C1D3EA46E16E542892879CA4A5F2AD_0__EC0EC557FF9ACAC757FF527CF2175EFBBC145977.udd" 689
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/7/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_308E77E542A69DB19D42718C163B7A82_0__FA9A3E36E954055FC80238321A65AC5D63E517FB.udd" 690
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_B4A403D3433F3FEAE7E038A20F211DDF_0__E3A2DFDC51DC1D27F767D11DFBCE7CD8020A9D77.udd" 691
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_07C1D3EA46E16E542892879CA4A5F2AD_0__3EAF4E811DEDAC46E039BC93C9365C318E9AEAEE.udd" 692
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_D2313B3C44119D50328D409CBB430545_0__21E684A0A78DD9B78F610E2EC9A96FB6927D0D0E.udd" 693
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_D2313B3C44119D50328D409CBB430545_0__F11353D2ADBA206EC3D37CE39CB745B71EBC029F.udd" 694
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_D2313B3C44119D50328D409CBB430545_0__2A208764943EA55842E92F2FAE52199BC71FC303.udd" 695
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_D2313B3C44119D50328D409CBB430545_0__B3AE98F9C223A943A661AF1491721968B8A0C063.udd" 696
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_8CCDC40942021B97B9F1A28100EDC__680046ED710DF97B66181D89E0EC458071BA65A3.udd" 697
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_B4A403D3433F3FEAE7E038A20F211DDF_0__F5F828D7BEA0D6BF3E104BE370BB1A805EAEB39C.udd" 698
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_07C1D3EA46E16E542892879CA4A5F2AD_0__6ABDAE8FE1267D99205EEC3065ECE2B06E389962.udd" 699
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E0D04EED42E0CCE6DD42FD92313CB__6BF1EEEE21C3A21AC88BBFB9575C72A80C380083.udd" 700
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E0D04EED42E0CCE6DD42FD92313CB__443E1551EC0E9557519545318021699621C5CE1B.udd" 701
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_B4A403D3433F3FEAE7E038A20F211DDF_0__E33DD1D26DF494780E02E9AD0689FA1B5914AA3B.udd" 702
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_07C1D3EA46E16E542892879CA4A5F2AD_0__D27DCDA9E229BABEC4C284C2DB7430CCBB11A949.udd" 703
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_B4A403D3433F3FEAE7E038A20F211DDF_0__4FEC983DC723A447B354C1B3C9AAD26BF77BF429.udd" 704
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_07C1D3EA46E16E542892879CA4A5F2AD_0__73497A13B6C81C3AD865D70452633A36BA1B00A0.udd" 705
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_259E329341FAC24EEF1C57AFF633C__E9182140D88461A3013066A5146DCB41E819F437.udd" 706
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_335BDB014486BE9F866D088A6DCFF__6C257680264E96D9BC498A2328394FFF278CC27F.udd" 707
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_259E329341FAC24EEF1C57AFF633C__B5731DA113BDC0E89CB0E42D9CB1158F039124EE.udd" 708
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E0D04EED42E0CCE6DD42FD92313CB__B164CC6DA58250A67477D41C6674327A1BE49D07.udd" 709
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_335BDB014486BE9F866D088A6DCFF__7978EB652FD2B011539982A64B2212AA98CA36FF.udd" 710
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E0D04EED42E0CCE6DD42FD92313CB__13E9582245A6406E5C605572A18E3B3D4E8759D9.udd" 711
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_335BDB014486BE9F866D088A6DCFF__7634828BF7752D09306C1A3117AA2757AD13C1AC.udd" 712
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E0D04EED42E0CCE6DD42FD92313CB__D6B1CFFFC53952AD0CFFB1E552A9C6F1D8883BCD.udd" 713
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_335BDB014486BE9F866D088A6DCFF__5126395C8D9000B230131D1EF0008332930C22F8.udd" 714
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_259E329341FAC24EEF1C57AFF633C__B7DD8241FE9E6A709F9826979C9EB6AC2EB9D472.udd" 715
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D49760E441C4DC7D4CB6E0BA3A4A3__23975B6A1B5D3BAD4DF3DF751B2AF448BB1228F7.udd" 716
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_259E329341FAC24EEF1C57AFF633C__71E206E7D55AC1D81D3397C4F01C9EA96647F986.udd" 717
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D49760E441C4DC7D4CB6E0BA3A4A3__3441EB0507812D3EB4192205E9468DE842B6F30E.udd" 718
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_259E329341FAC24EEF1C57AFF633C__43F2DB2CE08029C9C75BC6D583C3972645C0B322.udd" 719
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D49760E441C4DC7D4CB6E0BA3A4A3__7256A2A3A59A63F0B36FF63CA91810E45CF7A571.udd" 720
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D49760E441C4DC7D4CB6E0BA3A4A3__19F9E81795B803045470587FD28396A093662FA6.udd" 721
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 722
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 723
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 724
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 725
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 726
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 727
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Lamp_Wall.uasset" 728
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_Lamp.uasset" 729
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Lamp_M.uasset" 730
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Lamp_N.uasset" 731
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 732
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_GlassWindow.uasset" 733
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Glass.uasset" 734
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_DoorFrame.uasset" 735
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_Frame.uasset" 736
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Frame_M.uasset" 737
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Frame_N.uasset" 738
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Door.uasset" 739
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_Door.uasset" 740
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Door_M.uasset" 741
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Door_N.uasset" 742
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Couch.uasset" 743
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_Chair.uasset" 744
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Chair_M.uasset" 745
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Chair_N.uasset" 746
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_CornerFrame.uasset" 747
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Chair.uasset" 748
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Bush.uasset" 749
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_Bush.uasset" 750
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Bush_D.uasset" 751
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Bush_N.uasset" 752
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/MaterialSphere.uasset" 753
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/M_Spark.uasset" 754
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Spark_Core.uasset" 755
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 756
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 757
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 758
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 759
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 760
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 761
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Water_N.uasset" 762
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/m_flare_01.uasset" 763
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 764
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Fire_SubUV.uasset" 765
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 766
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 767
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 768
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 769
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 770
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/M_Burst.uasset" 771
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Burst_M.uasset" 772
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/P_Steam_Lit.uasset" 773
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Wood_Pine.uasset" 774
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_MacroVariation.uasset" 775
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 776
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 777
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 778
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Wood_Oak.uasset" 779
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 780
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 781
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 782
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 783
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 784
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 785
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 786
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 787
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Water_Ocean.uasset" 788
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Water_M.uasset" 789
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Water_Lake.uasset" 790
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Tech_Panel.uasset" 791
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 792
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 793
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 794
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 795
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 796
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 797
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 798
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 799
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 800
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Single_Tile_N.uasset" 801
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 802
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 803
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Rock_Slate.uasset" 804
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 805
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 806
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 807
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 808
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 809
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 810
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 811
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 812
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Rock_Basalt.uasset" 813
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 814
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 815
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Metal_Steel.uasset" 816
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 817
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Metal_Rust.uasset" 818
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 819
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 820
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Metal_Gold.uasset" 821
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 822
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Metal_Copper.uasset" 823
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 824
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Metal_Chrome.uasset" 825
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 826
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 827
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 828
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Ground_Moss.uasset" 829
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_ground_Moss_D.uasset" 830
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 831
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Ground_Gravel.uasset" 832
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 833
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Ground_Grass.uasset" 834
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 835
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 836
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 837
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 838
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 839
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 840
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 841
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Concrete_Poured.uasset" 842
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 843
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 844
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Concrete_Panels.uasset" 845
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 846
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 847
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Concrete_Grime.uasset" 848
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 849
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 850
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 851
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 852
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 853
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 854
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Gradinet_01.uasset" 855
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 856
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 857
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 858
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 859
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 860
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 861
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 862
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 863
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 864
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 865
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 866
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 867
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 868
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 869
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 870
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 871
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 872
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 873
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 874
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 875
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 876
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 877
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 878
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 879
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 880
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 881
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 882
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 883
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 884
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 885
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Basic_Wall.uasset" 886
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Basic_Floor.uasset" 887
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_AssetPlatform.uasset" 888
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 889
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_Rock.uasset" 890
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_RockMesh_M.uasset" 891
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_RockMesh_N.uasset" 892
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_WindowFrame.uasset" 893
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_TableRound.uasset" 894
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_TableRound.uasset" 895
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_TableRound_M.uasset" 896
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_TableRound_N.uasset" 897
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Statue.uasset" 898
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_Statue.uasset" 899
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Statue_M.uasset" 900
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Statue_N.uasset" 901
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 902
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Stairs.uasset" 903
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Shelf.uasset" 904
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_Shelf.uasset" 905
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Shelf_M.uasset" 906
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Shelf_N.uasset" 907
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Rock.uasset" 908
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_PillarFrame300.uasset" 909
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_PillarFrame.uasset" 910
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/P_Sparks.uasset" 911
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/P_Explosion.uasset" 912
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 913
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 914
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Fire_Sparks01.uasset" 915
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 916
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Smoke01_Cue.uasset" 917
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/P_Smoke.uasset" 918
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Smoke01.uasset" 919
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 920
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Fire01_Cue.uasset" 921
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/P_Fire.uasset" 922
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Fire01.uasset" 923
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 924
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Explosion_Cue.uasset" 925
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Explosion01.uasset" 926
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Explosion02.uasset" 927
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 928
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Steam01_Cue.uasset" 929
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Steam01.uasset" 930
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Starter_Wind06.uasset" 931
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Starter_Wind05.uasset" 932
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Starter_Music_Cue.uasset" 933
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Starter_Music01.uasset" 934
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Starter_Birds01.uasset" 935
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Starter_Background_Cue.uasset" 936
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Light02_Cue.uasset" 937
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Light02.uasset" 938
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Light01_Cue.uasset" 939
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Light01.uasset" 940
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Collapse_Cue.uasset" 941
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Collapse01.uasset" 942
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Collapse02.uasset" 943
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 944
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 945
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 946
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 947
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Wall_500x500.uasset" 948
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Wall_400x400.uasset" 949
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Wall_400x300.uasset" 950
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Wall_400x200.uasset" 951
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 952
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Pillar_50x500.uasset" 953
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Floor_400x400.uasset" 954
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_7EA4D1CD446007BF2E0BCE90D545B85__39877BA4E181DDBC135A2AB3216A4CCD2BF14B20.udd" 955
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/1/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_7EA4D1CD446007BF2__07C29143AEAE69D947EEF451C1EEF5E1B001CFE2.udd" 956
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_96B64D9C4BA70056DD03FB9C5C579350___80EA579238390FE84E9DA8C0404EAA6F38BE3EDF.udd" 957
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_96B64D9C4BA70056DD03FB9C5C579350___51820BF7125BC8ADA73F67F35EEE471566599C1A.udd" 958
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_96B64D9C4BA70056DD03FB9C5C579350___6DB7AC949E1E15073B690EBB0292D4984ABB9E89.udd" 959
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_96B64D9C4BA70056DD03FB9C5C579350___4F51C2A2CBEFD6FAD8D67D833C52AC0EDE6CE636.udd" 960
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_96B64D9C4BA70056DD03FB9C5C579350___C993D6B0463E5BE22A6312F1E8C1F367EF962063.udd" 961
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_96B64D9C4BA70056DD03FB9C5C579350___456B2D34C009323539A89D242D676582440757CA.udd" 962
-"D:/Unreal/Tauri/Content/Objects/Primitives/Mesh/1M_Cube_Chamfer.uasset" 963
-"D:/Unreal/Tauri/Content/Objects/Character/Textures/UE4_Mannequin__normals.uasset" 964
-"D:/Unreal/Tauri/Content/Objects/Character/Animations/ThirdPersonJump_End.uasset" 965
-"D:/Unreal/Tauri/Content/Objects/Character/Animations/Sprint_Fwd_Rifle_Copy.uasset" 966
-"D:/Unreal/Tauri/Content/Objects/Character/Animations/Jump_From_Stand_Ironsights_Copy.uasset" 967
-"D:/Unreal/Tauri/Content/Objects/Character/Animations/Jump_From_Stand_Copy.uasset" 968
-"D:/Unreal/Tauri/Content/Objects/Character/Animations/Jump_From_Jog_Copy.uasset" 969
-"D:/Unreal/Tauri/Content/Objects/Character/Animations/Jog_Rt_Rifle_Copy.uasset" 970
-"D:/Unreal/Tauri/Content/Objects/Character/Animations/Jog_Lt_Rifle_Copy.uasset" 971
-"D:/Unreal/Tauri/Content/Objects/Character/Animations/Jog_Fwd_Rifle_Copy.uasset" 972
-"D:/Unreal/Tauri/Content/Objects/Character/Animations/Jog_Bwd_Rifle_Copy.uasset" 973
-"D:/Unreal/Tauri/Content/Objects/Character/Animations/Equip_Rifle_Standing_Copy.uasset" 974
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E25AA97040B6FA0BC6BB149EB8A73__284674C02543AA31DE9073099CBDE5ED715BEAB3.udd" 975
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 976
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 977
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 978
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 979
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 980
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 981
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Tube.uasset" 982
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 983
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 984
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 985
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Trim.uasset" 986
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Torus.uasset" 987
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Sphere.uasset" 988
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 989
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Plane.uasset" 990
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 991
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 992
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Pipe.uasset" 993
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 994
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Cylinder.uasset" 995
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Cube.uasset" 996
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Cone.uasset" 997
-"C:/Users/MAXKLI~1/AppData/Local/Temp/UnrealShaderWorkingDir/9A6FB55A40F2BE5D5809E3A099CF7028/0/WorkerOutputOnly.out" 998
-"C:/Users/MAXKLI~1/AppData/Local/Temp/UnrealShaderWorkingDir/9A6FB55A40F2BE5D5809E3A099CF7028/3/WorkerOutputOnly.out" 999
-"C:/Users/MAXKLI~1/AppData/Local/Temp/UnrealShaderWorkingDir/9A6FB55A40F2BE5D5809E3A099CF7028/1/WorkerOutputOnly.out" 1000
-"C:/Users/MAXKLI~1/AppData/Local/Temp/UnrealShaderWorkingDir/9A6FB55A40F2BE5D5809E3A099CF7028/2/WorkerOutputOnly.out" 1001
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_79768323498DD9B801C451B7A1CFBF00___CCD6E05ECAD5F0235F32C56F59ADDD9EF20BD78C.udd" 1002
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_79768323498DD9B801C451B7A1CFBF00___047ECB8D6558C12BDE51E64E0A764E54A888C6A1.udd" 1003
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_79768323498DD9B801C451B7A1CFBF00___579435DEF93BD27FB9394C680E47585BD2604483.udd" 1004
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_79768323498DD9B801C451B7A1CFBF00___FD1CB17123F06E371A94FB38BF9F273F17629837.udd" 1005
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Stand_To_Prone.uasset" 1006
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 1007
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 1008
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 1009
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset" 1010
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset" 1011
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset" 1012
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset" 1013
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Reload_Shotgun_Hip.uasset" 1014
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset" 1015
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Reload_Rifle_Hip.uasset" 1016
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Reload_Pistol.uasset" 1017
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Prone_To_Stand.uasset" 1018
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Prone_Reload_Shotgun.uasset" 1019
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Prone_Reload_Rifle.uasset" 1020
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Prone_Idle.uasset" 1021
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Prone_Fire_2.uasset" 1022
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Prone_Fire_1.uasset" 1023
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Prone_Death_2.uasset" 1024
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Prone_Death_1.uasset" 1025
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset" 1026
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Jump_From_Stand.uasset" 1027
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Jump_From_Jog.uasset" 1028
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Jog_Rt_Rifle.uasset" 1029
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Jog_Lt_Rifle.uasset" 1030
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" 1031
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" 1032
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset" 1033
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" 1034
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" 1035
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Idle_Rifle_Hip.uasset" 1036
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Idle_Pistol.uasset" 1037
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Hit_React_4.uasset" 1038
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Hit_React_3.uasset" 1039
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Hit_React_2.uasset" 1040
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Hit_React_1.uasset" 1041
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset" 1042
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Fire_Shotgun_Hip.uasset" 1043
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" 1044
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Fire_Rifle_Hip.uasset" 1045
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Equip_Rifle_Standing.uasset" 1046
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Equip_Pistol_Standing.uasset" 1047
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Death_Ironsights_2.uasset" 1048
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Death_Ironsights_1.uasset" 1049
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Death_3.uasset" 1050
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Death_2.uasset" 1051
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Death_1.uasset" 1052
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset" 1053
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" 1054
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset" 1055
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" 1056
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 1057
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" 1058
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset" 1059
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" 1060
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset" 1061
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset" 1062
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset" 1063
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 1064
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/BS_Jog.uasset" 1065
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/BS_CrouchWalk.uasset" 1066
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Aim_Space_Ironsights.uasset" 1067
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Aim_Space_Hip.uasset" 1068
-"D:/Unreal/Tauri/Content/Objects/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1069
-"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/SearchMenu.uasset" 1070
-"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/LobbyConnectedMenu.uasset" 1071
-"D:/Unreal/Tauri/Content/Blueprints/Menu/GameMode/LobbyHUD.uasset" 1072
-"D:/Unreal/Tauri/Content/Blueprints/Menu/GameMode/LobbyGameMode.uasset" 1073
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1074
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1075
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1076
-"D:/Unreal/Tauri/Content/Objects/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1077
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1C0B8EEE4D4CF4D6D4B9E39111872__A4DC00C3E6A65B68FE973CC18CD5B0266CDA6D81.udd" 1078
-"D:/Unreal/Tauri/Content/Objects/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1079
-"D:/Unreal/Tauri/Content/Objects/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1080
-"D:/Unreal/Tauri/Content/Objects/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1081
-"D:/Unreal/Tauri/Content/Objects/Character/Materials/M_UE4Man_ChestLogo.uasset" 1082
-"D:/Unreal/Tauri/Content/Objects/Character/Materials/M_UE4Man_Body.uasset" 1083
-"D:/Unreal/Tauri/Content/Objects/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1084
-"D:/Unreal/Tauri/Content/Objects/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1085
-"D:/Unreal/Tauri/Content/Objects/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1086
-"D:/Unreal/Tauri/Content/Objects/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1087
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1088
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1089
-"D:/Unreal/Tauri/Content/Maps/LobbyMenu.umap" 1090
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1091
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" 1092
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" 1093
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" 1094
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" 1095
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset" 1096
-"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Ue4ASP_Character.uasset" 1097
-"D:/Unreal/Tauri/Content/Objects/Character/Textures/UE4_LOGO_CARD.uasset" 1098
-"D:/Unreal/Tauri/Content/Objects/Character/Textures/UE4Man_Logo_N.uasset" 1099
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1100
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1101
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1102
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1103
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1104
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 1105
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1106
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1107
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1108
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 1109
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1110
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1111
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1112
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_54BDB068447E7417A33810BFF365F509__93845248A2460ABD9CDA725D208F9D2A999EFE3B.udd" 1113
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_54BDB068447E7417A33810BFF365F509__578A3FD72584C4806261DC17F1DF5E7FC4C10C5C.udd" 1114
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/8/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_54BDB068447E7417A33810BFF365F509__5E4E6EC09C4BDE5D54B3885E4971DCDD559F9B25.udd" 1115
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_54BDB068447E7417A33810BFF365F509__0B19BA814C3FBBCF63A76E96DFCA9C959169DFE2.udd" 1116
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_429594DB4BD9D6ABE8AB63B20DEF7756___19CCE0FD4B2FDF5E2EA4F6EAA40792C358182154.udd" 1117
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_429594DB4BD9D6ABE8AB63B20DEF7756___8CBE039F0D5D1A9A977134DBD727C12AD491F186.udd" 1118
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_429594DB4BD9D6ABE8AB63B20DEF7756___EDCC82382D15B78A237375D9D5431220FB8FF3C9.udd" 1119
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_429594DB4BD9D6ABE8AB63B20DEF7756___3896EE339C18D40C476DA5975F1B5536A301BCFC.udd" 1120
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1121
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 1122
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1123
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1124
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_833117354EAEAA713F0946BF0BC48B17__EB3A440F78D412A264F8CF802C15A9C6B5EA5F72.udd" 1125
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_833117354EAEAA713F0946BF0BC48B17__8449C2743D430F2B71A10E0A68D850546705E32E.udd" 1126
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_833117354EAEAA713F0946BF0BC48B17__B78AE1ABC144311977866FC4B3D1C140C72B1A8A.udd" 1127
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_833117354EAEAA713F0946BF0BC48B17__42607D1F828CA9F5CE3A42417E3FA3FD8EF954C3.udd" 1128
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_0DB1386840D52A45327D7FAEBB42E638___E37EDEC3EBB01791722A1AD911CA52C77630200D.udd" 1129
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_0DB1386840D52A45327D7FAEBB42E638___77075439E7B32DD80E54FFE1ECE2408B17104FCA.udd" 1130
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_0DB1386840D52A45327D7FAEBB42E638___E17C23DC5322473FD3E3848854DD456303CC05E6.udd" 1131
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_0DB1386840D52A45327D7FAEBB42E638___C281E3488D4B3B41B4B0517185185E1AB64B459E.udd" 1132
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1133
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/P_Ambient_Dust.uasset" 1134
-"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Wood_Walnut.uasset" 1135
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1ED776AD433B0CF640901994F35C6__8E2FC270A83530AAE29D3C869E69B22AFF7C1673.udd" 1136
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1ED776AD433B0CF640901994F35C6__B20642CDEA7F1FE87AC28BE218CE08CCB8FDF9B4.udd" 1137
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1ED776AD433B0CF640901994F35C6__F10C01D46FDBAD3F916A3BC64FEFCCF05A2111EE.udd" 1138
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1ED776AD433B0CF640901994F35C6__13E1F6957CCC93B6D7BABEAD1BDAA633CD58523C.udd" 1139
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1ED776AD433B0CF640901994F35C6__85B325AB2B0DC5F75C486658B166458BFC76B590.udd" 1140
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_655D545E4F2053C8BF8B5CB32D38AED3__096A4BE7EEC910DD9C612B787D256747031860AD.udd" 1141
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_655D545E4F2053C8BF8B5CB32D38AED3__C8D96FC94617D09B466089B8CCF1C5667A73B1E9.udd" 1142
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_655D545E4F2053C8BF8B5CB32D38AED3__55176F1C899CA372E319381F3531F7EB1D7882E1.udd" 1143
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_655D545E4F2053C8BF8B5CB32D38AED3__B89A801292B57490895F3D0BFB0C125CC88270F1.udd" 1144
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1145
-"..\..\..\Engine\Content\Internationalization\icudt53l\windowsZones.res" 1146
-"..\..\..\Engine\Content\Internationalization\icudt53l\zoneinfo64.res" 1147
-"..\..\..\Engine\Content\Internationalization\icudt53l\keyTypeData.res" 1148
-"..\..\..\Engine\Content\Internationalization\icudt53l\timezoneTypes.res" 1149
-"..\..\..\Engine\Content\Internationalization\icudt53l\likelySubtags.res" 1150
-"..\..\..\Engine\Content\Internationalization\icudt53l\supplementalData.res" 1151
-"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/0/AUDIO_0002_0000_OGG_0001_31D870B44577B2511571CA9564A08892.udd" 1152
+"D:/Unreal/Tauri/Content/Blueprints/Level/Weapons/AK-74M.uasset" 505
+"D:/Unreal/Tauri/Content/Blueprints/Level/Weapons/M_AK74M.uasset" 506
+"D:/Unreal/Tauri/Content/Blueprints/Level/Weapons/Tex_0011_1.uasset" 507
+"D:/Unreal/Tauri/Content/Blueprints/Level/Weapons/Tex_0012_1.uasset" 508
+"D:/Unreal/Tauri/Content/Blueprints/Level/Weapons/Tex_0012_2.uasset" 509
+"D:/Unreal/Tauri/Content/Blueprints/Level/HUD/HudInterface.uasset" 510
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 511
+"D:/Unreal/Tauri/Content/Blueprints/Level/Weapons/bullethole_Mat.uasset" 512
+"D:/Unreal/Tauri/Content/Blueprints/Level/Weapons/bullethole.uasset" 513
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/2/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUF702B8A90__15618C79D122D4782BF3EF314A6F7ED82841DF80.udd" 514
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/9/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUF702B8A90__B4C1AFB872D3245328183C2256DB4830F4F1FF55.udd" 515
+"D:/Unreal/Tauri/Content/Blueprints/Level/GameMode/TauriHudBP.uasset" 516
+"D:/Unreal/Tauri/Content/Blueprints/Level/HUD/Health.uasset" 517
+"D:/Unreal/Tauri/Content/Blueprints/Level/HUD/HudWidget.uasset" 518
+"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/crosshair.uasset" 519
+"D:/Unreal/Tauri/Content/Blueprints/Level/GameMode/TauriPlayerStateBP.uasset" 520
+"D:/Unreal/Tauri/Content/Blueprints/Level/HUD/HealthInterface.uasset" 521
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/4.10/Saved/Config/Windows/SourceControlSettings.ini" 522
+"D:/Unreal/Tauri/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 523
+"D:/Unreal/Tauri/Saved/Config/Windows/SourceControlSettings.ini" 524
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_CapsuleMesh.uasset" 525
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_TorusMesh.uasset" 526
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_HandColor.uasset" 527
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_PassthroughMaterial.uasset" 528
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_SampleDistortion.uasset" 529
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_TestTexture.uasset" 530
+"../../../Engine/Content/BasicShapes/Cube.uasset" 531
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 532
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 533
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 534
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 535
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 536
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 537
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 538
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 539
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 540
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 541
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 542
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 543
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 544
+"D:/Unreal/Tauri/Intermediate/CachedAssetRegistry.bin" 545
+"D:/Unreal/Tauri/Content/Maps/ThirdPersonExampleMap.umap" 546
+"D:/Unreal/Tauri/Saved/Autosaves/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto1.uasset" 547
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/HUD_State_Auto3.uasset" 548
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Health/HealthBar_Auto1.uasset" 549
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Health/HealthInterface_Auto1.uasset" 550
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/HUD/Menu/MainMenu_Auto1.uasset" 551
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/HUD/Menu/Textures/main_menu_Auto1.uasset" 552
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Level/GameMode/TauriCharacterBP_Auto3.uasset" 553
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Level/GameMode/TauriGameInstance_Auto1.uasset" 554
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Level/GameMode/TauriGameInstance_Auto5.uasset" 555
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Level/GameMode/TauriGameInstance_Auto6.uasset" 556
+"C:/Users/MAXKLI~1/AppData/Local/Temp/UnrealShaderWorkingDir/D9244E004223A8F769F2CDADA58DB27E/1/WorkerOutputOnly.out" 557
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Level/GameMode/TauriGameInstance_Auto7.uasset" 558
+"C:/Users/MAXKLI~1/AppData/Local/Temp/UnrealShaderWorkingDir/D9244E004223A8F769F2CDADA58DB27E/3/WorkerOutputOnly.out" 559
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Level/GameMode/TauriGameInstance_Auto9.uasset" 560
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Level/GameMode/TauriGameModeBP_Auto1.uasset" 561
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Level/GameMode/TauriPlayerStateBP_Auto1.uasset" 562
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Level/GameMode/TauriPlayerStateBP_Auto2.uasset" 563
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Level/HUD/bullethole_Auto5.uasset" 564
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Level/HUD/bullethole_Mat_Auto5.uasset" 565
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Level/HUD/HealthMP_Auto3.uasset" 566
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Level/HUD/Health_Auto1.uasset" 567
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Level/HUD/Health_Auto2.uasset" 568
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/GameMode/LobbyGameMode_Auto1.uasset" 569
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/GameMode/MenuGameMode_Auto1.uasset" 570
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/ConnectedPlayerWidget_Auto9.uasset" 571
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/CreateServerMenu_Auto1.uasset" 572
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/CreateServerMenu_Auto3.uasset" 573
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/CreateServerMenu_Auto8.uasset" 574
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/FoundServerWidget_Auto1.uasset" 575
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/FoundServerWidget_Auto2.uasset" 576
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/LobbyConnectedMenu_Auto3.uasset" 577
+"C:/Users/MAXKLI~1/AppData/Local/Temp/UnrealShaderWorkingDir/D9244E004223A8F769F2CDADA58DB27E/2/WorkerOutputOnly.out" 578
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/LobbyMenu_Auto0.uasset" 579
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/LobbyMenu_Auto1.uasset" 580
+"C:/Users/MAXKLI~1/AppData/Local/Temp/UnrealShaderWorkingDir/D9244E004223A8F769F2CDADA58DB27E/0/WorkerOutputOnly.out" 581
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/LobbyMenu_Auto2.uasset" 582
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/LobbyMenu_Auto4.uasset" 583
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/LobbyMenu_Auto5.uasset" 584
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/LobbyMenu_Auto7.uasset" 585
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/LobbyMenu_Auto9.uasset" 586
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/MainMenu_Auto2.uasset" 587
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/SearchMenu_Auto1.uasset" 588
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/SearchServerMenu_Auto1.uasset" 589
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/SearchServerMenu_Auto2.uasset" 590
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Blueprints/Menu/HUD/ServerTravel_Auto3.uasset" 591
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Mannequin/Animations/Fire_Rifle_Hip_Copy_Auto2.uasset" 592
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto1.uasset" 593
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto2.uasset" 594
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto3.uasset" 595
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto4.uasset" 596
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto5.uasset" 597
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Mannequin/Character/Mesh/Jog_Bwd_Rifle_Copy_Auto1.uasset" 598
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Mannequin/Character/Mesh/Jog_Fwd_Rifle_Copy_Auto1.uasset" 599
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Mannequin/Character/Mesh/Jog_Lt_Rifle_Copy_Auto1.uasset" 600
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Mannequin/Character/Mesh/Jog_Rt_Rifle_Copy_Auto1.uasset" 601
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Mannequin/Character/Mesh/MainSkeleton_Auto1.uasset" 602
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Maps/MainMenu_Auto3.umap" 603
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Maps/MainMenu_Auto5.umap" 604
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto1.umap" 605
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto3.umap" 606
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto4.umap" 607
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto5.umap" 608
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto6.umap" 609
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Maps/UEDPCLobbyMenu.umap" 610
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap" 611
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Maps/UEDPCThirdPersonExampleMap.umap" 612
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Models/Tex_0005_1_Auto1.uasset" 613
+"D:/Unreal/Tauri/Saved/Autosaves/Game/Models/Tex_0006_1_Auto1.uasset" 614
+"D:/Unreal/Tauri/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/TauriCharacterBP_Auto7.uasset" 615
+"D:/Unreal/Tauri/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/TauriGameState_Auto5.uasset" 616
+"D:/Unreal/Tauri/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto1.uasset" 617
+"D:/Unreal/Tauri/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto2.uasset" 618
+"D:/Unreal/Tauri/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto3.uasset" 619
+"D:/Unreal/Tauri/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto4.uasset" 620
+"D:/Unreal/Tauri/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto5.uasset" 621
+"D:/Unreal/Tauri/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto6.uasset" 622
+"D:/Unreal/Tauri/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto1.umap" 623
+"D:/Unreal/Tauri/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto2.umap" 624
+"D:/Unreal/Tauri/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto3.umap" 625
+"D:/Unreal/Tauri/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto4.umap" 626
+"D:/Unreal/Tauri/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto5.umap" 627
+"D:/Unreal/Tauri/Saved/Autosaves/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_Auto6.umap" 628
+"D:/Unreal/Tauri/Saved/Autosaves/Game/ThirdPersonCPP/Maps/UEDPCMainMenu.umap" 629
+"D:/Unreal/Tauri/Saved/Autosaves/Game/ThirdPersonCPP/Maps/UEDPCThirdPersonExampleMap.umap" 630
+"D:/Unreal/Tauri/Saved/Autosaves/Game/UE4-Content/StarterContent/Materials/M_Metal_Gold_Auto3.uasset" 631
+"D:/Unreal/Tauri/Saved/Autosaves/Game/UI/HealthBar_Auto1.uasset" 632
+"D:/Unreal/Tauri/Saved/Autosaves/Game/UI/HealthBar_Auto4.uasset" 633
+"D:/Unreal/Tauri/Saved/Autosaves/Game/UI/HealthBar_Auto5.uasset" 634
+"D:/Unreal/Tauri/Saved/Autosaves/Game/UI/HealthBar_Auto6.uasset" 635
+"D:/Unreal/Tauri/Saved/Cooked/WindowsNoEditor/Tauri/CookedIniVersion.txt" 636
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 637
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 638
+"D:/Unreal/Tauri/Content/Blueprints/Level/GameMode/TauriGameInstance.uasset" 639
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 640
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 641
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 642
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 643
+"../../../Engine/Content/EditorMaterials/PhAT_JointLimitMaterial.uasset" 644
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 645
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 646
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 647
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 648
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 649
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 650
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 651
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 652
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 653
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 654
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 655
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 656
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 657
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 658
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 659
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 660
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 661
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 662
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 663
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 664
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 665
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 666
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 667
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 668
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 669
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 670
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 671
+"../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset" 672
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Tutorial_DM.uasset" 673
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 674
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 675
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 676
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 677
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 678
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 679
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 680
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 681
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 682
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 683
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 684
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 685
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 686
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 687
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 688
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 689
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 690
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 691
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 692
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 693
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 694
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 695
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 696
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 697
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 698
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 699
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 700
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 701
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 702
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 703
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 704
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 705
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 706
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 707
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 708
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 709
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 710
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 711
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 712
+"D:/Unreal/Tauri/Content/Blueprints/Level/GameMode/TauriGameModeBP.uasset" 713
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 714
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 715
+"D:/Unreal/Tauri/Content/Objects/Primitives/Materials/RampMaterial.uasset" 716
+"D:/Unreal/Tauri/Content/Objects/Primitives/Mesh/1M_Cube.uasset" 717
+"D:/Unreal/Tauri/Content/Objects/Primitives/Materials/CubeMaterial.uasset" 718
+"D:/Unreal/Tauri/Content/Objects/Primitives/Mesh/Bump_StaticMesh.uasset" 719
+"D:/Unreal/Tauri/Content/Objects/Primitives/Mesh/LeftArm_StaticMesh.uasset" 720
+"D:/Unreal/Tauri/Content/Objects/Primitives/Mesh/Linear_Stair_StaticMesh.uasset" 721
+"D:/Unreal/Tauri/Content/Objects/Primitives/Mesh/Ramp_StaticMesh.uasset" 722
+"D:/Unreal/Tauri/Content/Objects/Primitives/Mesh/RightArm_StaticMesh.uasset" 723
+"D:/Unreal/Tauri/Content/Objects/Primitives/Mesh/TemplateFloor.uasset" 724
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/4/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_E7481A7549F02589B801AD8E00971C3__013440111A10778A4038F6B8594914B495AB3AE4.udd" 725
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/5/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_E7481A7549F02589B__0ACA96DAC0635587C108FF236F3B276C87EE108D.udd" 726
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/5/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_FDBBB6F04D800CA09DD3D28E01D71FF4__1_0_13123_0.udd" 727
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/8/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_C1404D4149047549068AD0A3C8242D3D__1_0_13123_0.udd" 728
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/7/REFL_ENC_96DFC022836B48889143E9DF484C3296_783E3A0F4956957B4A069692AFF1FD52.udd" 729
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/9/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_4B5CFF95454C0E412B8DC7B9702297A__348FD9149A8B96C24F8B13E7991534E46C2778B8.udd" 730
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/9/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_4B5CFF95454C0E412__E3BB315FD72892F9CC78551F70CB9FA2179F4377.udd" 731
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F0276359475320C13EFBEDB268B99__277A2D9D14257BE63BC0BB641AE2B7E95E154E68.udd" 732
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4691407E469961F748204F9BE2CE0__CACEF9999ED3BB68E116EBD1B7BC94CC0B56F3C1.udd" 733
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B6E2CD774BF3EBBC31C5368A88235__450D84CE6D8AB58FD479455CAFF7FA1751EF366F.udd" 734
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4691407E469961F748204F9BE2CE0__93285BC20B0CFEF3CE163694873765F1450E08F1.udd" 735
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B6E2CD774BF3EBBC31C5368A88235__9D0A530C77A38CC02EBBECB6A2D1F6766316E673.udd" 736
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4691407E469961F748204F9BE2CE0__E313FF121525AB368A117BBEF58775CE4584AD1F.udd" 737
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4691407E469961F748204F9BE2CE0__D1CDD76A475386F3EE3043D1A27D4F7F61F682B9.udd" 738
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_4691407E469961F748204F9BE2CE0__D13669C3B8DB297621C602935ACA7A1FE8ED99E0.udd" 739
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E755BE2D467288F01C6AA4898A19F__21A4ECE22106D9DF3D398B34099B1DD89A14604E.udd" 740
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2D0E63D545F43A30254EA994F9DB7__5CC6A06AEACAFF2DF0D40267C8B916899AC293C5.udd" 741
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E755BE2D467288F01C6AA4898A19F__A6B96313109CF010F6542ED2043D2E0A73E0AC85.udd" 742
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2D0E63D545F43A30254EA994F9DB7__86ADA8821F3799D979E48B2E467174D098C1FE79.udd" 743
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B6E2CD774BF3EBBC31C5368A88235__E08E73980C23FD52BA6876A9FC24062D103243D4.udd" 744
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B6E2CD774BF3EBBC31C5368A88235__756A09B285A8D13885FBCA115725A23150C60389.udd" 745
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E755BE2D467288F01C6AA4898A19F__5CA15180929E2B0495A6C4B6D56C66DFD08F58C6.udd" 746
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2D0E63D545F43A30254EA994F9DB7__B622AD17E7D58457BA73418BAE7991BE9AFCD2AE.udd" 747
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_B6E2CD774BF3EBBC31C5368A88235__CDC3565E1FB37980B8849933F51E9D189E0CBA65.udd" 748
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E755BE2D467288F01C6AA4898A19F__8917D381187E3BA123847D5FC10B24A7F4E4EF8E.udd" 749
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2D0E63D545F43A30254EA994F9DB7__FCA35953734AB322819003CDB894E0B4DA592AB4.udd" 750
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_AB2744644C616E1BEB06429EDF7A03D0__6A557EC1E92E77C93F6FDFC5792821BBB4F7BE09.udd" 751
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3F840105422885DE4CBB49ADA4D808C0__DB3A2EE71873CD94236E2234D5D7A87F68482116.udd" 752
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/8/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3B3866AC47F8EC60AE2E7B8AB580E5FE__76EAAC7F7AFA0E7595C40AA09D832E166DBF859C.udd" 753
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_862783D34F6FCFAC34F87DB33E3E14EA__DD5F12BD75156FAD8DC8ADB4210DB8DFAC3826EE.udd" 754
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3B3866AC47F8EC60AE2E7B8AB580E5FE__4165A0C4EF28A9F7B5A8668C3FE8B65E47B2CE62.udd" 755
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3F840105422885DE4CBB49ADA4D808C0__1AE5C9FC99532D67B60A3FEDB8CF2F58F8D29529.udd" 756
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_862783D34F6FCFAC34F87DB33E3E14EA__26670988E96603302DB29C63D80AFC15D974DA0D.udd" 757
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/8/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3F840105422885DE4CBB49ADA4D808C0__265FAB965E4032FD8ACFB977893CFFE10053FB08.udd" 758
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3B3866AC47F8EC60AE2E7B8AB580E5FE__847D30A28FC05B06372F3D6539A19FD780BA7237.udd" 759
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_862783D34F6FCFAC34F87DB33E3E14EA__4C0B1F06B822BFF6ACD375F80561BF387F2971AC.udd" 760
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/9/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3B3866AC47F8EC60AE2E7B8AB580E5FE__94E6676B80DF9F24FADD536F7A7296285373B011.udd" 761
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_862783D34F6FCFAC34F87DB33E3E14EA__6A62731E75155B39E808EA60AAAFF9C97C29B341.udd" 762
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/8/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_0411332A4BEA27AC050BE4A8C5286AEC__6CD040325F3772644D1E570042B8FE9DFF2EFAD1.udd" 763
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3F840105422885DE4CBB49ADA4D808C0__CD4EC37895EDAAF1004B4EDAFF0A6F4A61DB9124.udd" 764
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3B3866AC47F8EC60AE2E7B8AB580E5FE__0F63EB639976EB688F7D71FFC13EB945FE230DDC.udd" 765
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_0411332A4BEA27AC050BE4A8C5286AEC__E96222BBA5A206B6048B3F9B72C37FFE07235E48.udd" 766
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_308E77E542A69DB19D42718C163B7A82_0__1A6F4FA80A251FCE05607DA55F6B9D9021DF7D7E.udd" 767
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_3F840105422885DE4CBB49ADA4D808C0__C23863E84189EECA41213CB6DB11C66D8AE5FD8D.udd" 768
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_308E77E542A69DB19D42718C163B7A82_0__97A7C85ED4B3781C575623499F57701D6AB8A6E5.udd" 769
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6456F62841A48576D2E2669D4F5FAA2B_0__56849E4DA3D7804A4AC86FFA3AA1FC4144C5417C.udd" 770
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_308E77E542A69DB19D42718C163B7A82_0__86474EE5E2E95144D348385AA791F4389C140515.udd" 771
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_B4A403D3433F3FEAE7E038A20F211DDF_0__DF8080E05585D6D7535F845B8DC8557E0471A452.udd" 772
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/7/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_308E77E542A69DB19D42718C163B7A82_0__FA9A3E36E954055FC80238321A65AC5D63E517FB.udd" 773
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_B4A403D3433F3FEAE7E038A20F211DDF_0__E3A2DFDC51DC1D27F767D11DFBCE7CD8020A9D77.udd" 774
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_07C1D3EA46E16E542892879CA4A5F2AD_0__EC0EC557FF9ACAC757FF527CF2175EFBBC145977.udd" 775
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_07C1D3EA46E16E542892879CA4A5F2AD_0__3EAF4E811DEDAC46E039BC93C9365C318E9AEAEE.udd" 776
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_B4A403D3433F3FEAE7E038A20F211DDF_0__F5F828D7BEA0D6BF3E104BE370BB1A805EAEB39C.udd" 777
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_B4A403D3433F3FEAE7E038A20F211DDF_0__E33DD1D26DF494780E02E9AD0689FA1B5914AA3B.udd" 778
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_07C1D3EA46E16E542892879CA4A5F2AD_0__6ABDAE8FE1267D99205EEC3065ECE2B06E389962.udd" 779
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_B4A403D3433F3FEAE7E038A20F211DDF_0__4FEC983DC723A447B354C1B3C9AAD26BF77BF429.udd" 780
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_D2313B3C44119D50328D409CBB430545_0__21E684A0A78DD9B78F610E2EC9A96FB6927D0D0E.udd" 781
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_0411332A4BEA27AC050BE4A8C5286AEC__318488A95EF0094FBC221A8BB515961031DBF5FF.udd" 782
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_07C1D3EA46E16E542892879CA4A5F2AD_0__D27DCDA9E229BABEC4C284C2DB7430CCBB11A949.udd" 783
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_D2313B3C44119D50328D409CBB430545_0__F11353D2ADBA206EC3D37CE39CB745B71EBC029F.udd" 784
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_07C1D3EA46E16E542892879CA4A5F2AD_0__73497A13B6C81C3AD865D70452633A36BA1B00A0.udd" 785
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_8CCDC40942021B97B9F1A28100EDC__680046ED710DF97B66181D89E0EC458071BA65A3.udd" 786
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_D2313B3C44119D50328D409CBB430545_0__2A208764943EA55842E92F2FAE52199BC71FC303.udd" 787
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E0D04EED42E0CCE6DD42FD92313CB__6BF1EEEE21C3A21AC88BBFB9575C72A80C380083.udd" 788
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E0D04EED42E0CCE6DD42FD92313CB__443E1551EC0E9557519545318021699621C5CE1B.udd" 789
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_D2313B3C44119D50328D409CBB430545_0__B3AE98F9C223A943A661AF1491721968B8A0C063.udd" 790
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_259E329341FAC24EEF1C57AFF633C__E9182140D88461A3013066A5146DCB41E819F437.udd" 791
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_259E329341FAC24EEF1C57AFF633C__B5731DA113BDC0E89CB0E42D9CB1158F039124EE.udd" 792
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E0D04EED42E0CCE6DD42FD92313CB__B164CC6DA58250A67477D41C6674327A1BE49D07.udd" 793
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E0D04EED42E0CCE6DD42FD92313CB__13E9582245A6406E5C605572A18E3B3D4E8759D9.udd" 794
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E0D04EED42E0CCE6DD42FD92313CB__D6B1CFFFC53952AD0CFFB1E552A9C6F1D8883BCD.udd" 795
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_259E329341FAC24EEF1C57AFF633C__B7DD8241FE9E6A709F9826979C9EB6AC2EB9D472.udd" 796
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_335BDB014486BE9F866D088A6DCFF__6C257680264E96D9BC498A2328394FFF278CC27F.udd" 797
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_335BDB014486BE9F866D088A6DCFF__7978EB652FD2B011539982A64B2212AA98CA36FF.udd" 798
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_259E329341FAC24EEF1C57AFF633C__71E206E7D55AC1D81D3397C4F01C9EA96647F986.udd" 799
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_259E329341FAC24EEF1C57AFF633C__43F2DB2CE08029C9C75BC6D583C3972645C0B322.udd" 800
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_335BDB014486BE9F866D088A6DCFF__7634828BF7752D09306C1A3117AA2757AD13C1AC.udd" 801
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_0411332A4BEA27AC050BE4A8C5286AEC__33B3636804523A31D0B7B2DB737801E17576C26D.udd" 802
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_335BDB014486BE9F866D088A6DCFF__5126395C8D9000B230131D1EF0008332930C22F8.udd" 803
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D49760E441C4DC7D4CB6E0BA3A4A3__23975B6A1B5D3BAD4DF3DF751B2AF448BB1228F7.udd" 804
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D49760E441C4DC7D4CB6E0BA3A4A3__7256A2A3A59A63F0B36FF63CA91810E45CF7A571.udd" 805
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D49760E441C4DC7D4CB6E0BA3A4A3__3441EB0507812D3EB4192205E9468DE842B6F30E.udd" 806
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D49760E441C4DC7D4CB6E0BA3A4A3__19F9E81795B803045470587FD28396A093662FA6.udd" 807
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 808
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Chair_M.uasset" 809
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin_PhysicsAsset.uasset" 810
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.uasset" 811
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset" 812
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_0DB1386840D52A45327D7FAEBB42E638___E37EDEC3EBB01791722A1AD911CA52C77630200D.udd" 813
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/6/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_0DB1386840D52A45327D7FAEBB42E638___77075439E7B32DD80E54FFE1ECE2408B17104FCA.udd" 814
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_0DB1386840D52A45327D7FAEBB42E638___E17C23DC5322473FD3E3848854DD456303CC05E6.udd" 815
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_0DB1386840D52A45327D7FAEBB42E638___C281E3488D4B3B41B4B0517185185E1AB64B459E.udd" 816
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 817
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 818
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 819
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 820
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Floor_400x400.uasset" 821
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Basic_Floor.uasset" 822
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_7EA4D1CD446007BF2E0BCE90D545B85__39877BA4E181DDBC135A2AB3216A4CCD2BF14B20.udd" 823
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/1/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_7EA4D1CD446007BF2__07C29143AEAE69D947EEF451C1EEF5E1B001CFE2.udd" 824
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_96B64D9C4BA70056DD03FB9C5C579350___80EA579238390FE84E9DA8C0404EAA6F38BE3EDF.udd" 825
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_96B64D9C4BA70056DD03FB9C5C579350___6DB7AC949E1E15073B690EBB0292D4984ABB9E89.udd" 826
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_96B64D9C4BA70056DD03FB9C5C579350___51820BF7125BC8ADA73F67F35EEE471566599C1A.udd" 827
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_96B64D9C4BA70056DD03FB9C5C579350___4F51C2A2CBEFD6FAD8D67D833C52AC0EDE6CE636.udd" 828
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_96B64D9C4BA70056DD03FB9C5C579350___C993D6B0463E5BE22A6312F1E8C1F367EF962063.udd" 829
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_96B64D9C4BA70056DD03FB9C5C579350___456B2D34C009323539A89D242D676582440757CA.udd" 830
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 831
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Explosion02.uasset" 832
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Explosion01.uasset" 833
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Collapse_Cue.uasset" 834
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Collapse01.uasset" 835
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Collapse02.uasset" 836
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 837
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Basic_Wall.uasset" 838
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 839
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 840
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 841
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Wall_500x500.uasset" 842
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Wall_400x400.uasset" 843
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Wall_400x300.uasset" 844
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Wall_400x200.uasset" 845
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 846
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_AssetPlatform.uasset" 847
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Architecture/Pillar_50x500.uasset" 848
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_54BDB068447E7417A33810BFF365F509__93845248A2460ABD9CDA725D208F9D2A999EFE3B.udd" 849
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_54BDB068447E7417A33810BFF365F509__578A3FD72584C4806261DC17F1DF5E7FC4C10C5C.udd" 850
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/8/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_54BDB068447E7417A33810BFF365F509__5E4E6EC09C4BDE5D54B3885E4971DCDD559F9B25.udd" 851
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_54BDB068447E7417A33810BFF365F509__0B19BA814C3FBBCF63A76E96DFCA9C959169DFE2.udd" 852
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Ue4ASP_Character.uasset" 853
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.uasset" 854
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Idle_Rifle_Hip.uasset" 855
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Idle_Rifle_Hip.uasset" 856
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Jump_From_Jog.uasset" 857
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Jump_From_Stand.uasset" 858
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/BS_CrouchWalk.uasset" 859
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" 860
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" 861
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" 862
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" 863
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/BS_Jog.uasset" 864
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Jog_Bwd_Rifle.uasset" 865
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Jog_Fwd_Rifle.uasset" 866
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Jog_Lt_Rifle.uasset" 867
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Jog_Rt_Rifle.uasset" 868
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Stand_To_Prone.uasset" 869
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Stand_to_Crouch_Rifle_Ironsights.uasset" 870
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Stand_to_Crouch_Rifle_Hip.uasset" 871
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Sprint_Fwd_Rifle.uasset" 872
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Reload_Shotgun_Ironsights.uasset" 873
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Reload_Shotgun_Hip.uasset" 874
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Reload_Rifle_Ironsights.uasset" 875
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Reload_Rifle_Hip.uasset" 876
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Reload_Pistol.uasset" 877
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Prone_To_Stand.uasset" 878
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Prone_Reload_Shotgun.uasset" 879
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Prone_Reload_Rifle.uasset" 880
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Prone_Idle.uasset" 881
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Prone_Fire_2.uasset" 882
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Prone_Fire_1.uasset" 883
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Prone_Death_2.uasset" 884
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Prone_Death_1.uasset" 885
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Jump_From_Stand_Ironsights.uasset" 886
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Idle_Rifle_Ironsights.uasset" 887
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Idle_Rifle_Hip_Break2.uasset" 888
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Idle_Rifle_Hip_Break1.uasset" 889
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Idle_Pistol.uasset" 890
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Hit_React_4.uasset" 891
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Hit_React_3.uasset" 892
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Hit_React_2.uasset" 893
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Hit_React_1.uasset" 894
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Fire_Shotgun_Ironsights.uasset" 895
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Fire_Shotgun_Hip.uasset" 896
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Fire_Rifle_Ironsights.uasset" 897
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Fire_Rifle_Hip.uasset" 898
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Equip_Rifle_Standing.uasset" 899
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Equip_Pistol_Standing.uasset" 900
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Death_Ironsights_2.uasset" 901
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Death_Ironsights_1.uasset" 902
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Death_3.uasset" 903
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Death_2.uasset" 904
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Death_1.uasset" 905
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Walk_Rt_Rifle_Ironsights.uasset" 906
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Walk_Lt_Rifle_Ironsights.uasset" 907
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" 908
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Ironsights.uasset" 909
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_to_Stand_Rifle_Ironsights.uasset" 910
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_to_Stand_Rifle_Hip.uasset" 911
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.uasset" 912
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Aim_Space_Ironsights.uasset" 913
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Aim_Space_Hip.uasset" 914
+"D:/Unreal/Tauri/Content/Objects/Primitives/Mesh/1M_Cube_Chamfer.uasset" 915
+"D:/Unreal/Tauri/Content/Objects/Character/Textures/UE4_Mannequin__normals.uasset" 916
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Smoke01.uasset" 917
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Light02_Cue.uasset" 918
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Light02.uasset" 919
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Light01_Cue.uasset" 920
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Light01.uasset" 921
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 922
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Fire_Sparks01.uasset" 923
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Fire01_Cue.uasset" 924
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Fire01.uasset" 925
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Explosion_Cue.uasset" 926
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1ED776AD433B0CF640901994F35C6__8E2FC270A83530AAE29D3C869E69B22AFF7C1673.udd" 927
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1ED776AD433B0CF640901994F35C6__B20642CDEA7F1FE87AC28BE218CE08CCB8FDF9B4.udd" 928
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1ED776AD433B0CF640901994F35C6__F10C01D46FDBAD3F916A3BC64FEFCCF05A2111EE.udd" 929
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1ED776AD433B0CF640901994F35C6__13E1F6957CCC93B6D7BABEAD1BDAA633CD58523C.udd" 930
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1ED776AD433B0CF640901994F35C6__85B325AB2B0DC5F75C486658B166458BFC76B590.udd" 931
+"D:/Unreal/Tauri/Content/Objects/Character/Materials/M_UE4Man_ChestLogo.uasset" 932
+"D:/Unreal/Tauri/Content/Objects/Character/Materials/M_UE4Man_Body.uasset" 933
+"D:/Unreal/Tauri/Content/Objects/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 934
+"D:/Unreal/Tauri/Content/Objects/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 935
+"D:/Unreal/Tauri/Content/Objects/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 936
+"D:/Unreal/Tauri/Content/Objects/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 937
+"D:/Unreal/Tauri/Content/Objects/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 938
+"D:/Unreal/Tauri/Content/Objects/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 939
+"D:/Unreal/Tauri/Content/Objects/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 940
+"D:/Unreal/Tauri/Content/Objects/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 941
+"D:/Unreal/Tauri/Content/Objects/Character/Animations/ThirdPersonJump_End.uasset" 942
+"D:/Unreal/Tauri/Content/Objects/Character/Animations/Sprint_Fwd_Rifle_Copy.uasset" 943
+"D:/Unreal/Tauri/Content/Objects/Character/Animations/Jump_From_Stand_Ironsights_Copy.uasset" 944
+"D:/Unreal/Tauri/Content/Objects/Character/Animations/Jump_From_Stand_Copy.uasset" 945
+"D:/Unreal/Tauri/Content/Objects/Character/Animations/Jump_From_Jog_Copy.uasset" 946
+"D:/Unreal/Tauri/Content/Objects/Character/Animations/Jog_Rt_Rifle_Copy.uasset" 947
+"D:/Unreal/Tauri/Content/Objects/Character/Animations/Jog_Lt_Rifle_Copy.uasset" 948
+"D:/Unreal/Tauri/Content/Objects/Character/Animations/Jog_Fwd_Rifle_Copy.uasset" 949
+"D:/Unreal/Tauri/Content/Objects/Character/Animations/Jog_Bwd_Rifle_Copy.uasset" 950
+"D:/Unreal/Tauri/Content/Objects/Character/Animations/Equip_Rifle_Standing_Copy.uasset" 951
+"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/T_MainMenu.uasset" 952
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_E25AA97040B6FA0BC6BB149EB8A73__284674C02543AA31DE9073099CBDE5ED715BEAB3.udd" 953
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_EE33BA3B43907022E9611880ADFBA__A02D630B70B475D505AE4FDC5AFFD3AA51546E9E.udd" 954
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_EE33BA3B43907022E9611880ADFBA__C39B47FC9BC5694BAEB6DB07415A89B248889591.udd" 955
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_EE33BA3B43907022E9611880ADFBA__CAAB669019D623DDE59DB4B0D85A17CFC6FC7CE1.udd" 956
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 957
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 958
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 959
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 960
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Statue_N.uasset" 961
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_Door.uasset" 962
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Door_M.uasset" 963
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Door_N.uasset" 964
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_Chair.uasset" 965
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Chair_N.uasset" 966
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_Bush.uasset" 967
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Bush_D.uasset" 968
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Bush_N.uasset" 969
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_WindowFrame.uasset" 970
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_Frame.uasset" 971
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Frame_M.uasset" 972
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Frame_N.uasset" 973
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_TableRound.uasset" 974
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_TableRound.uasset" 975
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_TableRound_M.uasset" 976
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_TableRound_N.uasset" 977
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Statue.uasset" 978
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_Statue.uasset" 979
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Statue_M.uasset" 980
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 981
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Stairs.uasset" 982
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Shelf.uasset" 983
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_Shelf.uasset" 984
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Shelf_M.uasset" 985
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Shelf_N.uasset" 986
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Rock.uasset" 987
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_Rock.uasset" 988
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 989
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 990
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_RockMesh_M.uasset" 991
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_RockMesh_N.uasset" 992
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_PillarFrame300.uasset" 993
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_PillarFrame.uasset" 994
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 995
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 996
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 997
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Lamp_Wall.uasset" 998
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/Materials/M_Lamp.uasset" 999
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Lamp_M.uasset" 1000
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Lamp_N.uasset" 1001
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1002
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_GlassWindow.uasset" 1003
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Glass.uasset" 1004
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_DoorFrame.uasset" 1005
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Door.uasset" 1006
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Couch.uasset" 1007
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_CornerFrame.uasset" 1008
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Chair.uasset" 1009
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/SM_Bush.uasset" 1010
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Props/MaterialSphere.uasset" 1011
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/M_Spark.uasset" 1012
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Spark_Core.uasset" 1013
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 1014
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 1015
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 1016
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 1017
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1018
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1019
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Water_N.uasset" 1020
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/m_flare_01.uasset" 1021
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1022
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1023
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1024
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 1025
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 1026
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 1027
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 1028
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/Materials/M_Burst.uasset" 1029
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Burst_M.uasset" 1030
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/P_Steam_Lit.uasset" 1031
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Water_Lake.uasset" 1032
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1033
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Tech_Panel.uasset" 1034
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_MacroVariation.uasset" 1035
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 1036
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 1037
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 1038
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 1039
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 1040
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 1041
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 1042
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 1043
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 1044
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Single_Tile_N.uasset" 1045
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 1046
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Rock_Slate.uasset" 1047
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 1048
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 1049
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1050
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1051
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 1052
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1053
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1054
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1055
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Rock_Basalt.uasset" 1056
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 1057
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Metal_Steel.uasset" 1058
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 1059
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Metal_Rust.uasset" 1060
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 1061
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 1062
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Metal_Gold.uasset" 1063
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1064
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Metal_Copper.uasset" 1065
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1066
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1067
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1068
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1069
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1070
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Ground_Moss.uasset" 1071
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1072
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1073
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1074
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1075
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1076
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Ground_Grass.uasset" 1077
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1078
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1079
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1080
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1081
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1082
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1083
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1084
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1085
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1086
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1087
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1088
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1089
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1090
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1091
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1092
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 1093
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1094
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1095
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1096
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1097
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Gradinet_01.uasset" 1098
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1099
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1100
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1101
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1102
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1103
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1104
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1105
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1106
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1107
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1108
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1109
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1110
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1111
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1112
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1113
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1114
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1115
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1116
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1117
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1118
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1119
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1120
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1121
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1122
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1123
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1124
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1125
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1126
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1127
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 1128
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1129
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1130
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1131
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1132
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1133
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1134
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1135
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 1136
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1137
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1138
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1139
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Steam01_Cue.uasset" 1140
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Steam01.uasset" 1141
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1142
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/P_Sparks.uasset" 1143
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1144
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Smoke01_Cue.uasset" 1145
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/P_Smoke.uasset" 1146
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1147
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/P_Fire.uasset" 1148
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 1149
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/P_Explosion.uasset" 1150
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1151
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Starter_Wind06.uasset" 1152
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Starter_Wind05.uasset" 1153
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Starter_Music_Cue.uasset" 1154
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Starter_Music01.uasset" 1155
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Starter_Birds01.uasset" 1156
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1157
+"D:/Unreal/Tauri/Content/Objects/Character/Textures/UE4_LOGO_CARD.uasset" 1158
+"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/Stargate.uasset" 1159
+"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/ServerTravel.uasset" 1160
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1C0B8EEE4D4CF4D6D4B9E39111872__A4DC00C3E6A65B68FE973CC18CD5B0266CDA6D81.udd" 1161
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 1162
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 1163
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Pipe.uasset" 1164
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 1165
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Cylinder.uasset" 1166
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Cube.uasset" 1167
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Cone.uasset" 1168
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1169
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1170
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_09DA2FED46949E3F0A77CA9A7BB66__25A0523384DA05C91EDF695CC65752BF7F2AA6CB.udd" 1171
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_09DA2FED46949E3F0A77CA9A7BB66__BADA39E2F390D22A574658029C83A85F5D42881D.udd" 1172
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2F5196064993EF29F447FBA24E65D__CAE8096392EB2294F3D27D67EBF2B7D25C855A80.udd" 1173
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2F5196064993EF29F447FBA24E65D__5F5EB93D8D90A7858F6A0BA5EB549D06E9649BA8.udd" 1174
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2F5196064993EF29F447FBA24E65D__A694DB8844A95EAE43685407DE6D37BA052D454D.udd" 1175
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_2F5196064993EF29F447FBA24E65D__972E4F5A599B7D007686F4C67A900464586E69AC.udd" 1176
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1177
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1178
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1179
+"D:/Unreal/Tauri/Content/Maps/LobbyMenu.umap" 1180
+"D:/Unreal/Tauri/Content/Blueprints/Menu/GameMode/LobbyGameMode.uasset" 1181
+"D:/Unreal/Tauri/Content/Blueprints/Menu/GameMode/LobbyHUD.uasset" 1182
+"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/LobbyMenu.uasset" 1183
+"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/ConnectedPlayerWidget.uasset" 1184
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1185
+"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/LobbyConnectedMenu.uasset" 1186
+"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/FoundServerWidget.uasset" 1187
+"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/SearchServerMenu.uasset" 1188
+"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/MainMenu.uasset" 1189
+"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/CreateServerMenu.uasset" 1190
+"D:/Unreal/Tauri/Content/Blueprints/Menu/GameMode/MenuHUD.uasset" 1191
+"D:/Unreal/Tauri/Content/Blueprints/Menu/GameMode/MenuGameMode.uasset" 1192
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_29DEC9F64EF9F7B76D887989593C0A1D___53859C07B0AC6DD64A750191EAAB3DCF08DD173A.udd" 1193
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_29DEC9F64EF9F7B76D887989593C0A1D___96C61AAD79A2E7F464C41AE7ED06E1DCA23F35F1.udd" 1194
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/4/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_29DEC9F64EF9F7B76D887989593C0A1D___49E1CB9BB667ABCE3603E49CB78EF9F631255F46.udd" 1195
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_29DEC9F64EF9F7B76D887989593C0A1D___DE860D8A67A752163DA50925B8D0288CDCBF75CA.udd" 1196
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 1197
+"D:/Unreal/Tauri/Content/Blueprints/Menu/HUD/SearchMenu.uasset" 1198
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/7/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_135AFA6344D2943FA80165974B0F3__04ED08B76EC9BFE8693C8EA85BCCB710FEE0CDBF.udd" 1199
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_135AFA6344D2943FA80165974B0F3__EE559DCA770B938F074BEBABEF5700D7D1111563.udd" 1200
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_135AFA6344D2943FA80165974B0F3__5CC897B6E7A51A50B733841D17C9BE3A873856ED.udd" 1201
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_135AFA6344D2943FA80165974B0F3__799762A063638F82391EA4DFC8726768EF0B90CD.udd" 1202
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_135AFA6344D2943FA80165974B0F3__F4ECC50F4CA767D069A909D9FA4541B4E255A29E.udd" 1203
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_135AFA6344D2943FA80165974B0F3__F9E3673731C2CF1C04638E85AE83B83E13870FBB.udd" 1204
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_833117354EAEAA713F0946BF0BC48B17__EB3A440F78D412A264F8CF802C15A9C6B5EA5F72.udd" 1205
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_833117354EAEAA713F0946BF0BC48B17__8449C2743D430F2B71A10E0A68D850546705E32E.udd" 1206
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_833117354EAEAA713F0946BF0BC48B17__B78AE1ABC144311977866FC4B3D1C140C72B1A8A.udd" 1207
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_833117354EAEAA713F0946BF0BC48B17__42607D1F828CA9F5CE3A42417E3FA3FD8EF954C3.udd" 1208
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" 1209
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" 1210
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" 1211
+"D:/Unreal/Tauri/Content/UE4-Content/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" 1212
+"D:/Unreal/Tauri/Content/Objects/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1213
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1214
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1215
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 1216
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_429594DB4BD9D6ABE8AB63B20DEF7756___19CCE0FD4B2FDF5E2EA4F6EAA40792C358182154.udd" 1217
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/1/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_429594DB4BD9D6ABE8AB63B20DEF7756___8CBE039F0D5D1A9A977134DBD727C12AD491F186.udd" 1218
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_429594DB4BD9D6ABE8AB63B20DEF7756___EDCC82382D15B78A237375D9D5431220FB8FF3C9.udd" 1219
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_429594DB4BD9D6ABE8AB63B20DEF7756___3896EE339C18D40C476DA5975F1B5536A301BCFC.udd" 1220
+"D:/Unreal/Tauri/Content/Blueprints/Level/HUD/HudBP.uasset" 1221
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1222
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 1223
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Sphere.uasset" 1224
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 1225
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Plane.uasset" 1226
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_655D545E4F2053C8BF8B5CB32D38AED3__096A4BE7EEC910DD9C612B787D256747031860AD.udd" 1227
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_655D545E4F2053C8BF8B5CB32D38AED3__C8D96FC94617D09B466089B8CCF1C5667A73B1E9.udd" 1228
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_655D545E4F2053C8BF8B5CB32D38AED3__55176F1C899CA372E319381F3531F7EB1D7882E1.udd" 1229
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_655D545E4F2053C8BF8B5CB32D38AED3__B89A801292B57490895F3D0BFB0C125CC88270F1.udd" 1230
+"D:/Unreal/Tauri/Content/Maps/MainMenu.umap" 1231
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 1232
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Water_Ocean.uasset" 1233
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Water_M.uasset" 1234
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_79768323498DD9B801C451B7A1CFBF00___CCD6E05ECAD5F0235F32C56F59ADDD9EF20BD78C.udd" 1235
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/5/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_79768323498DD9B801C451B7A1CFBF00___579435DEF93BD27FB9394C680E47585BD2604483.udd" 1236
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_79768323498DD9B801C451B7A1CFBF00___FD1CB17123F06E371A94FB38BF9F273F17629837.udd" 1237
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/3/TEXTURE_814DCC3DC72143F49509781513CB9855_BC5_79768323498DD9B801C451B7A1CFBF00___047ECB8D6558C12BDE51E64E0A764E54A888C6A1.udd" 1238
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Torus.uasset" 1239
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Particles/P_Ambient_Dust.uasset" 1240
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Wood_Walnut.uasset" 1241
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Wood_Pine.uasset" 1242
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 1243
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Wood_Oak.uasset" 1244
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1245
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1246
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1247
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 1248
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 1249
+"D:/Unreal/Tauri/Content/Objects/Character/Textures/UE4Man_Logo_N.uasset" 1250
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Tube.uasset" 1251
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 1252
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 1253
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 1254
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Trim.uasset" 1255
+"D:/Unreal/Tauri/Content/Blueprints/Level/Weapons/M_AK74.uasset" 1256
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1257
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 1258
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 1259
+"../../../Engine/Content/Maps/Entry.umap" 1260
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 1261
+"D:/Unreal/Tauri/Content/UE4-Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 1262
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/7/AUDIO_0002_0000_OGG_0001_3A13E117419C5BE2FBFEC0BC0E80629E.udd" 1263
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/2/AUDIO_0002_0000_OGG_0001_632D1B9A4FC93D9537554A9FD1692204.udd" 1264
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/3/AUDIO_0002_0000_OGG_0001_45DA31D24952A30D9D59C58355781501.udd" 1265
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/2/AUDIO_0002_0000_OGG_0001_8D7626FF43F2E7CB0FFEF1819DF93FE0.udd" 1266
+"C:/Users/Max Klingmann/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/4/AUDIO_0002_0000_OGG_0001_B847AAD74080418C90B2E9968E18B4E9.udd" 1267
+"..\..\..\Engine\Content\Internationalization\icudt53l\windowsZones.res" 1268
+"..\..\..\Engine\Content\Internationalization\icudt53l\zoneinfo64.res" 1269
+"..\..\..\Engine\Content\Internationalization\icudt53l\keyTypeData.res" 1270
+"..\..\..\Engine\Content\Internationalization\icudt53l\timezoneTypes.res" 1271
+"..\..\..\Engine\Content\Internationalization\icudt53l\likelySubtags.res" 1272
+"..\..\..\Engine\Content\Internationalization\icudt53l\supplementalData.res" 1273
