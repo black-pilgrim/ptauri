@@ -11,5 +11,5 @@
 UCLASS()
 class TAURI_API ATauriPlayerState : public APlayerState
 {
-	GENERATED_BODY()
+	GENERATED_BODY() 
 };
