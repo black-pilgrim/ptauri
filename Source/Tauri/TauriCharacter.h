@@ -37,30 +37,9 @@ protected:
 	/** Turn Event, called when Mouse is moved left/right*/
 	void Turn(float Value);
 
-	UFUNCTION(Server, Reliable, WithValidation)
-	void ServerTurnPlayer(float Value);
-
-	virtual void ServerTurnPlayer_Implementation(float Value);
-	virtual bool ServerTurnPlayer_Validate(float Value);
-
-
 	/** LookUp Event, called when Mouse is moved up/down */
-	UPROPERTY(Replicated, BlueprintReadWrite)
-	FRotator ViewportRotator;
 
 	void LookUp(float Value);
-
-	UFUNCTION(Server, Reliable, WithValidation)
-	void ServerLookUpPlayer(float Value);
-
-	virtual void ServerLookUpPlayer_Implementation(float Value);
-	virtual bool ServerLookUpPlayer_Validate(float Value);
-
-	UFUNCTION(NetMulticast, Reliable)
-	void MulticastLookUp(FRotator vprt);
-
-	virtual void MulticastLookUp_Implementation(FRotator vprt);
-	virtual bool MulticastLookUp_Validate(FRotator vprt);
 
 	/** 
 	 * Called via input to turn at a given rate. 
