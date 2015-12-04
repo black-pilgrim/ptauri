@@ -1,0 +1,7 @@
+FileVersion:2
+Type:Static
+Guid:8CAD1DAE-4A68-D786-BF3B-5C8946643423
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/Blueprints/Level/GameMode/TauriCharacter.TauriCharacter
+/Game/Objects/Character/Animations/Tauri_AnimBP.Tauri_AnimBP

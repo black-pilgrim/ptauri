@@ -1,0 +1,11 @@
+FileVersion:2
+Type:Static
+Guid:41FDB1BF-46DD-5349-EEBE-0D88D7F13DEA
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/Blueprints/Level/Items/Weapons/AK47M.AK47M
+/Game/Objects/Weapons/M_AK74M.M_AK74M
+/Game/Objects/Weapons/SM_AK74M.SM_AK74M
+/Game/Objects/Weapons/T_AK74M_1.T_AK74M_1
+/Game/Objects/Weapons/T_AK74M_2.T_AK74M_2
+/Game/Objects/Weapons/T_AK74M_N.T_AK74M_N
