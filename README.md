@@ -1,3 +1,3 @@
 # ptauri
 
-https://github.com/blac-pilgrim/ptauri/wiki/General-Discussion
+https://github.com/black-pilgrim/ptauri/wiki/General-Discussion
